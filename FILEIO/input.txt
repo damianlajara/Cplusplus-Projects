@@ -1,0 +1,20 @@
+Grand Hyatt      | 109 E 42nd St, New York     | 212-883-1234 | Elliot R. McClanahan | ElliotRMcClanahan@gmail.com | 118 | 192.00 | 5  | 500.00 | 8.47% | 0
+Four Points      | 326 W 40th St, New York     | 212-967-8585 | Kevin J. Merz        | KevinJMerz@gmail.com        | 506 | 198.00 | 4  | 350.00 | 8.47% | 10
+Hilton           | 152 W 26th St, New York     | 212-858-5888 | Amanda T. Tatum      | AmandaTTatum@gmail.com      | 265 | 165.00 | 7  | 600.00 | 8.47% | 100
+Holiday Inn      | 440 W 57th St, New York     | 212-581-8100 | Ernest N. Perry      | ErnestNPerry@gmail.com      | 406 | 220.00 | 9  | 800.00 | 8.47% | 1000
+Deauville        | 103 E 29th St, New York     | 212-683-0990 | Beverly T. Reyes     | BeverlyTReyes@gmail.com     | 512 | 85.00  | 2  | 250.00 | 8.47% | 200
+La Quinta        | 17 W 32nd St, New York      | 212-736-1600 | Jean D. Welsh        | JeanDWelsh@gmail.com        | 768 | 96.00  | 4  | 242.00 | 8.47% | 370
+Kimberly         | 145 E 50th St, New York     | 212-755-0400 | Mabel R. David       | MabelRDavid@gmail.com       | 657 | 103.00 | 6  | 312.00 | 8.47% | 600
+Marriott         | 525 Lexington Ave, New York | 212-755-4000 | Helen M. Gregory     | HelenMGregory@gmail.com     | 456 | 112.00 | 12 | 448.00 | 8.47% | 942
+Intercontinental | 300 W 44th St, New York     | 212-803-4500 | Chad A. Beaudoin     | ChadABeaudoin@gmail.com     | 844 | 96.00  | 8  | 224.00 | 8.47% | 476
+Moderne          | 243 W 55th St, New York     | 212-397-6767 | Linda J. Hendricks   | LindaJHendricks@gmail.com   | 345 | 98.00  | 4  | 112.00 | 8.47% | 36
+Morgans          | 237 Madison Ave, New York   | 212-686-0300 | Karen G. Frye        | KarenGFrye@gmail.com        | 653 | 123.00 | 6  | 268.00 | 8.47% | 1000
+New York Inn     | 765 8th Avenue, New York    | 212-247-5400 | Kathy A. Coombs      | KathyACoombs@gmail.com      | 233 | 146.00 | 3  | 296.00 | 8.47% | 0
+Milennium        | 145 W 44th St, New York     | 212-768-4400 | Hattie J. Schultz    | HattieJSchultz@gmail.com    | 752 | 165.00 | 2  | 330.00 | 8.47% | 15
+Night            | 132 W 45th St, New York     | 212-835-9600 | Margaret M. Gandy    | MargaretMGandy@gmail.com    | 876 | 188.00 | 5  | 433.00 | 8.47% | 389
+Sheraton         | 790 7th Avenue, New York    | 212-581-3300 | Harry D. Schaefer    | HarryDSchaefer@gmail.com    | 987 | 143.00 | 8  | 661.00 | 8.47% | 1600
+Renaissance      | 130 E 57th St, New York     | 212-753-8841 | Kristin D. Hicks     | KristinDHicks@gmail.com     | 766 | 159.00 | 11 | 98.00  | 8.47% | 1003
+Red Roof         | 6 W 32nd St, New York       | 212-643-7100 | Florence J. Ford     | FlorenceJFord@gmail.com     | 564 | 177.00 | 10 | 764.00 | 8.47% | 1348
+The Carlton      | 88 Madison Avenue, New York | 212-532-4100 | Mary W. Mathews      | MaryWMathews@gmail.com      | 223 | 231.00 | 13 | 558.00 | 8.47% | 1262
+The Muse         | 130 W 46th St, New York     | 212-485-2400 | Sarah R. Wade        | SarahRWade@gmail.com        | 442 | 99.00  | 9  | 299.00 | 8.47% | 0
+Four Seasons     | 57 E 57th St, New York      | 212-758-5700 | Lavonne L. Bible     | LavonneLBible@gmail.com     | 632 | 245.00 | 7  | 479.00 | 8.47% | 300

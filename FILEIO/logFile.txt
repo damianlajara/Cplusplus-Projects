@@ -1,0 +1,2328 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1) Processing Elliot R. McClanahan's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Grand Hyatt...Done!
+[SUCCESS] set Hotel Name to: Grand Hyatt
+Validating Hotel Address: 109 E 42nd St, New York...Done!
+[SUCCESS] set Hotel Address to: 109 E 42nd St, New York
+Validating Hotel Contact Info: 212-883-1234...Done!
+[SUCCESS] set Hotel Contact Info to: 212-883-1234
+Validating Guest Name: Elliot R. McClanahan...Done!
+[SUCCESS] set Guest Name to: Elliot R. McClanahan
+Validating Guest Contact Info: ElliotRMcClanahan@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: ElliotRMcClanahan@gmail.com
+Validating Room Number: 118...Done!
+[SUCCESS] set Room Number to: 118
+Validating Room Rate: 192.00...Done!
+[SUCCESS] set Room Rate to: 192.00
+Validating Length Of Stay: 5...Done!
+[SUCCESS] set Length Of Stay to: 5
+Validating Extra Expenses: 500.00...Done!
+[SUCCESS] set Extra Expenses to: 500.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 0...Done!
+[SUCCESS] set Deposit to: 0
+[SUCCESS] set Balance to: 1460
+[SUCCESS] set Total to: 1583.66
+...Done Processing Elliot R. McClanahan's Hotel Ticket
+
+2) Processing Kevin J. Merz's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Four Points...Done!
+[SUCCESS] set Hotel Name to: Four Points
+Validating Hotel Address: 326 W 40th St, New York...Done!
+[SUCCESS] set Hotel Address to: 326 W 40th St, New York
+Validating Hotel Contact Info: 212-967-8585...Done!
+[SUCCESS] set Hotel Contact Info to: 212-967-8585
+Validating Guest Name: Kevin J. Merz...Done!
+[SUCCESS] set Guest Name to: Kevin J. Merz
+Validating Guest Contact Info: KevinJMerz@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: KevinJMerz@gmail.com
+Validating Room Number: 506...Done!
+[SUCCESS] set Room Number to: 506
+Validating Room Rate: 198.00...Done!
+[SUCCESS] set Room Rate to: 198.00
+Validating Length Of Stay: 4...Done!
+[SUCCESS] set Length Of Stay to: 4
+Validating Extra Expenses: 350.00...Done!
+[SUCCESS] set Extra Expenses to: 350.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 10...Done!
+[SUCCESS] set Deposit to: 10
+[SUCCESS] set Balance to: 1132
+[SUCCESS] set Total to: 1227.88
+...Done Processing Kevin J. Merz's Hotel Ticket
+
+3) Processing Amanda T. Tatum's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Hilton...Done!
+[SUCCESS] set Hotel Name to: Hilton
+Validating Hotel Address: 152 W 26th St, New York...Done!
+[SUCCESS] set Hotel Address to: 152 W 26th St, New York
+Validating Hotel Contact Info: 212-858-5888...Done!
+[SUCCESS] set Hotel Contact Info to: 212-858-5888
+Validating Guest Name: Amanda T. Tatum...Done!
+[SUCCESS] set Guest Name to: Amanda T. Tatum
+Validating Guest Contact Info: AmandaTTatum@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: AmandaTTatum@gmail.com
+Validating Room Number: 265...Done!
+[SUCCESS] set Room Number to: 265
+Validating Room Rate: 165.00...Done!
+[SUCCESS] set Room Rate to: 165.00
+Validating Length Of Stay: 7...Done!
+[SUCCESS] set Length Of Stay to: 7
+Validating Extra Expenses: 600.00...Done!
+[SUCCESS] set Extra Expenses to: 600.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 100...Done!
+[SUCCESS] set Deposit to: 100
+[SUCCESS] set Balance to: 1655
+[SUCCESS] set Total to: 1795.18
+...Done Processing Amanda T. Tatum's Hotel Ticket
+
+4) Processing Ernest N. Perry's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Holiday Inn...Done!
+[SUCCESS] set Hotel Name to: Holiday Inn
+Validating Hotel Address: 440 W 57th St, New York...Done!
+[SUCCESS] set Hotel Address to: 440 W 57th St, New York
+Validating Hotel Contact Info: 212-581-8100...Done!
+[SUCCESS] set Hotel Contact Info to: 212-581-8100
+Validating Guest Name: Ernest N. Perry...Done!
+[SUCCESS] set Guest Name to: Ernest N. Perry
+Validating Guest Contact Info: ErnestNPerry@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: ErnestNPerry@gmail.com
+Validating Room Number: 406...Done!
+[SUCCESS] set Room Number to: 406
+Validating Room Rate: 220.00...Done!
+[SUCCESS] set Room Rate to: 220.00
+Validating Length Of Stay: 9...Done!
+[SUCCESS] set Length Of Stay to: 9
+Validating Extra Expenses: 800.00...Done!
+[SUCCESS] set Extra Expenses to: 800.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 1000...Done!
+[SUCCESS] set Deposit to: 1000
+[SUCCESS] set Balance to: 1780
+[SUCCESS] set Total to: 1930.77
+...Done Processing Ernest N. Perry's Hotel Ticket
+
+5) Processing Beverly T. Reyes's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Deauville...Done!
+[SUCCESS] set Hotel Name to: Deauville
+Validating Hotel Address: 103 E 29th St, New York...Done!
+[SUCCESS] set Hotel Address to: 103 E 29th St, New York
+Validating Hotel Contact Info: 212-683-0990...Done!
+[SUCCESS] set Hotel Contact Info to: 212-683-0990
+Validating Guest Name: Beverly T. Reyes...Done!
+[SUCCESS] set Guest Name to: Beverly T. Reyes
+Validating Guest Contact Info: BeverlyTReyes@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: BeverlyTReyes@gmail.com
+Validating Room Number: 512...Done!
+[SUCCESS] set Room Number to: 512
+Validating Room Rate: 85.00...Done!
+[SUCCESS] set Room Rate to: 85.00
+Validating Length Of Stay: 2...Done!
+[SUCCESS] set Length Of Stay to: 2
+Validating Extra Expenses: 250.00...Done!
+[SUCCESS] set Extra Expenses to: 250.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 200...Done!
+[SUCCESS] set Deposit to: 200
+[SUCCESS] set Balance to: 220
+[SUCCESS] set Total to: 238.634
+...Done Processing Beverly T. Reyes's Hotel Ticket
+
+6) Processing Jean D. Welsh's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: La Quinta...Done!
+[SUCCESS] set Hotel Name to: La Quinta
+Validating Hotel Address: 17 W 32nd St, New York...Done!
+[SUCCESS] set Hotel Address to: 17 W 32nd St, New York
+Validating Hotel Contact Info: 212-736-1600...Done!
+[SUCCESS] set Hotel Contact Info to: 212-736-1600
+Validating Guest Name: Jean D. Welsh...Done!
+[SUCCESS] set Guest Name to: Jean D. Welsh
+Validating Guest Contact Info: JeanDWelsh@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: JeanDWelsh@gmail.com
+Validating Room Number: 768...Done!
+[SUCCESS] set Room Number to: 768
+Validating Room Rate: 96.00...Done!
+[SUCCESS] set Room Rate to: 96.00
+Validating Length Of Stay: 4...Done!
+[SUCCESS] set Length Of Stay to: 4
+Validating Extra Expenses: 242.00...Done!
+[SUCCESS] set Extra Expenses to: 242.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 370...Done!
+[SUCCESS] set Deposit to: 370
+[SUCCESS] set Balance to: 256
+[SUCCESS] set Total to: 277.683
+...Done Processing Jean D. Welsh's Hotel Ticket
+
+7) Processing Mabel R. David's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Kimberly...Done!
+[SUCCESS] set Hotel Name to: Kimberly
+Validating Hotel Address: 145 E 50th St, New York...Done!
+[SUCCESS] set Hotel Address to: 145 E 50th St, New York
+Validating Hotel Contact Info: 212-755-0400...Done!
+[SUCCESS] set Hotel Contact Info to: 212-755-0400
+Validating Guest Name: Mabel R. David...Done!
+[SUCCESS] set Guest Name to: Mabel R. David
+Validating Guest Contact Info: MabelRDavid@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: MabelRDavid@gmail.com
+Validating Room Number: 657...Done!
+[SUCCESS] set Room Number to: 657
+Validating Room Rate: 103.00...Done!
+[SUCCESS] set Room Rate to: 103.00
+Validating Length Of Stay: 6...Done!
+[SUCCESS] set Length Of Stay to: 6
+Validating Extra Expenses: 312.00...Done!
+[SUCCESS] set Extra Expenses to: 312.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 600...Done!
+[SUCCESS] set Deposit to: 600
+[SUCCESS] set Balance to: 330
+[SUCCESS] set Total to: 357.951
+...Done Processing Mabel R. David's Hotel Ticket
+
+8) Processing Helen M. Gregory's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Marriott...Done!
+[SUCCESS] set Hotel Name to: Marriott
+Validating Hotel Address: 525 Lexington Ave, New York...Done!
+[SUCCESS] set Hotel Address to: 525 Lexington Ave, New York
+Validating Hotel Contact Info: 212-755-4000...Done!
+[SUCCESS] set Hotel Contact Info to: 212-755-4000
+Validating Guest Name: Helen M. Gregory...Done!
+[SUCCESS] set Guest Name to: Helen M. Gregory
+Validating Guest Contact Info: HelenMGregory@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: HelenMGregory@gmail.com
+Validating Room Number: 456...Done!
+[SUCCESS] set Room Number to: 456
+Validating Room Rate: 112.00...Done!
+[SUCCESS] set Room Rate to: 112.00
+Validating Length Of Stay: 12...Done!
+[SUCCESS] set Length Of Stay to: 12
+Validating Extra Expenses: 448.00...Done!
+[SUCCESS] set Extra Expenses to: 448.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 942...Done!
+[SUCCESS] set Deposit to: 942
+[SUCCESS] set Balance to: 850
+[SUCCESS] set Total to: 921.995
+...Done Processing Helen M. Gregory's Hotel Ticket
+
+9) Processing Chad A. Beaudoin's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Intercontinental...Done!
+[SUCCESS] set Hotel Name to: Intercontinental
+Validating Hotel Address: 300 W 44th St, New York...Done!
+[SUCCESS] set Hotel Address to: 300 W 44th St, New York
+Validating Hotel Contact Info: 212-803-4500...Done!
+[SUCCESS] set Hotel Contact Info to: 212-803-4500
+Validating Guest Name: Chad A. Beaudoin...Done!
+[SUCCESS] set Guest Name to: Chad A. Beaudoin
+Validating Guest Contact Info: ChadABeaudoin@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: ChadABeaudoin@gmail.com
+Validating Room Number: 844...Done!
+[SUCCESS] set Room Number to: 844
+Validating Room Rate: 96.00...Done!
+[SUCCESS] set Room Rate to: 96.00
+Validating Length Of Stay: 8...Done!
+[SUCCESS] set Length Of Stay to: 8
+Validating Extra Expenses: 224.00...Done!
+[SUCCESS] set Extra Expenses to: 224.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 476...Done!
+[SUCCESS] set Deposit to: 476
+[SUCCESS] set Balance to: 516
+[SUCCESS] set Total to: 559.705
+...Done Processing Chad A. Beaudoin's Hotel Ticket
+
+10) Processing Linda J. Hendricks's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Moderne...Done!
+[SUCCESS] set Hotel Name to: Moderne
+Validating Hotel Address: 243 W 55th St, New York...Done!
+[SUCCESS] set Hotel Address to: 243 W 55th St, New York
+Validating Hotel Contact Info: 212-397-6767...Done!
+[SUCCESS] set Hotel Contact Info to: 212-397-6767
+Validating Guest Name: Linda J. Hendricks...Done!
+[SUCCESS] set Guest Name to: Linda J. Hendricks
+Validating Guest Contact Info: LindaJHendricks@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: LindaJHendricks@gmail.com
+Validating Room Number: 345...Done!
+[SUCCESS] set Room Number to: 345
+Validating Room Rate: 98.00...Done!
+[SUCCESS] set Room Rate to: 98.00
+Validating Length Of Stay: 4...Done!
+[SUCCESS] set Length Of Stay to: 4
+Validating Extra Expenses: 112.00...Done!
+[SUCCESS] set Extra Expenses to: 112.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 36...Done!
+[SUCCESS] set Deposit to: 36
+[SUCCESS] set Balance to: 468
+[SUCCESS] set Total to: 507.64
+...Done Processing Linda J. Hendricks's Hotel Ticket
+
+11) Processing Karen G. Frye's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Morgans...Done!
+[SUCCESS] set Hotel Name to: Morgans
+Validating Hotel Address: 237 Madison Ave, New York...Done!
+[SUCCESS] set Hotel Address to: 237 Madison Ave, New York
+Validating Hotel Contact Info: 212-686-0300...Done!
+[SUCCESS] set Hotel Contact Info to: 212-686-0300
+Validating Guest Name: Karen G. Frye...Done!
+[SUCCESS] set Guest Name to: Karen G. Frye
+Validating Guest Contact Info: KarenGFrye@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: KarenGFrye@gmail.com
+Validating Room Number: 653...Done!
+[SUCCESS] set Room Number to: 653
+Validating Room Rate: 123.00...Done!
+[SUCCESS] set Room Rate to: 123.00
+Validating Length Of Stay: 6...Done!
+[SUCCESS] set Length Of Stay to: 6
+Validating Extra Expenses: 268.00...Done!
+[SUCCESS] set Extra Expenses to: 268.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 1000...Done!
+[SUCCESS] set Deposit to: 1000
+[SUCCESS] set Balance to: 6
+[SUCCESS] set Total to: 6.5082
+...Done Processing Karen G. Frye's Hotel Ticket
+
+12) Processing Kathy A. Coombs's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: New York Inn...Done!
+[SUCCESS] set Hotel Name to: New York Inn
+Validating Hotel Address: 765 8th Avenue, New York...Done!
+[SUCCESS] set Hotel Address to: 765 8th Avenue, New York
+Validating Hotel Contact Info: 212-247-5400...Done!
+[SUCCESS] set Hotel Contact Info to: 212-247-5400
+Validating Guest Name: Kathy A. Coombs...Done!
+[SUCCESS] set Guest Name to: Kathy A. Coombs
+Validating Guest Contact Info: KathyACoombs@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: KathyACoombs@gmail.com
+Validating Room Number: 233...Done!
+[SUCCESS] set Room Number to: 233
+Validating Room Rate: 146.00...Done!
+[SUCCESS] set Room Rate to: 146.00
+Validating Length Of Stay: 3...Done!
+[SUCCESS] set Length Of Stay to: 3
+Validating Extra Expenses: 296.00...Done!
+[SUCCESS] set Extra Expenses to: 296.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 0...Done!
+[SUCCESS] set Deposit to: 0
+[SUCCESS] set Balance to: 734
+[SUCCESS] set Total to: 796.17
+...Done Processing Kathy A. Coombs's Hotel Ticket
+
+13) Processing Hattie J. Schultz's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Milennium...Done!
+[SUCCESS] set Hotel Name to: Milennium
+Validating Hotel Address: 145 W 44th St, New York...Done!
+[SUCCESS] set Hotel Address to: 145 W 44th St, New York
+Validating Hotel Contact Info: 212-768-4400...Done!
+[SUCCESS] set Hotel Contact Info to: 212-768-4400
+Validating Guest Name: Hattie J. Schultz...Done!
+[SUCCESS] set Guest Name to: Hattie J. Schultz
+Validating Guest Contact Info: HattieJSchultz@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: HattieJSchultz@gmail.com
+Validating Room Number: 752...Done!
+[SUCCESS] set Room Number to: 752
+Validating Room Rate: 165.00...Done!
+[SUCCESS] set Room Rate to: 165.00
+Validating Length Of Stay: 2...Done!
+[SUCCESS] set Length Of Stay to: 2
+Validating Extra Expenses: 330.00...Done!
+[SUCCESS] set Extra Expenses to: 330.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 15...Done!
+[SUCCESS] set Deposit to: 15
+[SUCCESS] set Balance to: 645
+[SUCCESS] set Total to: 699.631
+...Done Processing Hattie J. Schultz's Hotel Ticket
+
+14) Processing Margaret M. Gandy's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Night...Done!
+[SUCCESS] set Hotel Name to: Night
+Validating Hotel Address: 132 W 45th St, New York...Done!
+[SUCCESS] set Hotel Address to: 132 W 45th St, New York
+Validating Hotel Contact Info: 212-835-9600...Done!
+[SUCCESS] set Hotel Contact Info to: 212-835-9600
+Validating Guest Name: Margaret M. Gandy...Done!
+[SUCCESS] set Guest Name to: Margaret M. Gandy
+Validating Guest Contact Info: MargaretMGandy@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: MargaretMGandy@gmail.com
+Validating Room Number: 876...Done!
+[SUCCESS] set Room Number to: 876
+Validating Room Rate: 188.00...Done!
+[SUCCESS] set Room Rate to: 188.00
+Validating Length Of Stay: 5...Done!
+[SUCCESS] set Length Of Stay to: 5
+Validating Extra Expenses: 433.00...Done!
+[SUCCESS] set Extra Expenses to: 433.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 389...Done!
+[SUCCESS] set Deposit to: 389
+[SUCCESS] set Balance to: 984
+[SUCCESS] set Total to: 1067.34
+...Done Processing Margaret M. Gandy's Hotel Ticket
+
+15) Processing Harry D. Schaefer's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Sheraton...Done!
+[SUCCESS] set Hotel Name to: Sheraton
+Validating Hotel Address: 790 7th Avenue, New York...Done!
+[SUCCESS] set Hotel Address to: 790 7th Avenue, New York
+Validating Hotel Contact Info: 212-581-3300...Done!
+[SUCCESS] set Hotel Contact Info to: 212-581-3300
+Validating Guest Name: Harry D. Schaefer...Done!
+[SUCCESS] set Guest Name to: Harry D. Schaefer
+Validating Guest Contact Info: HarryDSchaefer@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: HarryDSchaefer@gmail.com
+Validating Room Number: 987...Done!
+[SUCCESS] set Room Number to: 987
+Validating Room Rate: 143.00...Done!
+[SUCCESS] set Room Rate to: 143.00
+Validating Length Of Stay: 8...Done!
+[SUCCESS] set Length Of Stay to: 8
+Validating Extra Expenses: 661.00...Done!
+[SUCCESS] set Extra Expenses to: 661.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 1600...Done!
+[SUCCESS] set Deposit to: 1600
+[SUCCESS] set Balance to: 205
+[SUCCESS] set Total to: 222.363
+...Done Processing Harry D. Schaefer's Hotel Ticket
+
+16) Processing Kristin D. Hicks's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Renaissance...Done!
+[SUCCESS] set Hotel Name to: Renaissance
+Validating Hotel Address: 130 E 57th St, New York...Done!
+[SUCCESS] set Hotel Address to: 130 E 57th St, New York
+Validating Hotel Contact Info: 212-753-8841...Done!
+[SUCCESS] set Hotel Contact Info to: 212-753-8841
+Validating Guest Name: Kristin D. Hicks...Done!
+[SUCCESS] set Guest Name to: Kristin D. Hicks
+Validating Guest Contact Info: KristinDHicks@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: KristinDHicks@gmail.com
+Validating Room Number: 766...Done!
+[SUCCESS] set Room Number to: 766
+Validating Room Rate: 159.00...Done!
+[SUCCESS] set Room Rate to: 159.00
+Validating Length Of Stay: 11...Done!
+[SUCCESS] set Length Of Stay to: 11
+Validating Extra Expenses: 98.00...Done!
+[SUCCESS] set Extra Expenses to: 98.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 1003...Done!
+[SUCCESS] set Deposit to: 1003
+[SUCCESS] set Balance to: 844
+[SUCCESS] set Total to: 915.487
+...Done Processing Kristin D. Hicks's Hotel Ticket
+
+17) Processing Florence J. Ford's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Red Roof...Done!
+[SUCCESS] set Hotel Name to: Red Roof
+Validating Hotel Address: 6 W 32nd St, New York...Done!
+[SUCCESS] set Hotel Address to: 6 W 32nd St, New York
+Validating Hotel Contact Info: 212-643-7100...Done!
+[SUCCESS] set Hotel Contact Info to: 212-643-7100
+Validating Guest Name: Florence J. Ford...Done!
+[SUCCESS] set Guest Name to: Florence J. Ford
+Validating Guest Contact Info: FlorenceJFord@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: FlorenceJFord@gmail.com
+Validating Room Number: 564...Done!
+[SUCCESS] set Room Number to: 564
+Validating Room Rate: 177.00...Done!
+[SUCCESS] set Room Rate to: 177.00
+Validating Length Of Stay: 10...Done!
+[SUCCESS] set Length Of Stay to: 10
+Validating Extra Expenses: 764.00...Done!
+[SUCCESS] set Extra Expenses to: 764.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 1348...Done!
+[SUCCESS] set Deposit to: 1348
+[SUCCESS] set Balance to: 1186
+[SUCCESS] set Total to: 1286.45
+...Done Processing Florence J. Ford's Hotel Ticket
+
+18) Processing Mary W. Mathews's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: The Carlton...Done!
+[SUCCESS] set Hotel Name to: The Carlton
+Validating Hotel Address: 88 Madison Avenue, New York...Done!
+[SUCCESS] set Hotel Address to: 88 Madison Avenue, New York
+Validating Hotel Contact Info: 212-532-4100...Done!
+[SUCCESS] set Hotel Contact Info to: 212-532-4100
+Validating Guest Name: Mary W. Mathews...Done!
+[SUCCESS] set Guest Name to: Mary W. Mathews
+Validating Guest Contact Info: MaryWMathews@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: MaryWMathews@gmail.com
+Validating Room Number: 223...Done!
+[SUCCESS] set Room Number to: 223
+Validating Room Rate: 231.00...Done!
+[SUCCESS] set Room Rate to: 231.00
+Validating Length Of Stay: 13...Done!
+[SUCCESS] set Length Of Stay to: 13
+Validating Extra Expenses: 558.00...Done!
+[SUCCESS] set Extra Expenses to: 558.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 1262...Done!
+[SUCCESS] set Deposit to: 1262
+[SUCCESS] set Balance to: 2299
+[SUCCESS] set Total to: 2493.73
+...Done Processing Mary W. Mathews's Hotel Ticket
+
+19) Processing Sarah R. Wade's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: The Muse...Done!
+[SUCCESS] set Hotel Name to: The Muse
+Validating Hotel Address: 130 W 46th St, New York...Done!
+[SUCCESS] set Hotel Address to: 130 W 46th St, New York
+Validating Hotel Contact Info: 212-485-2400...Done!
+[SUCCESS] set Hotel Contact Info to: 212-485-2400
+Validating Guest Name: Sarah R. Wade...Done!
+[SUCCESS] set Guest Name to: Sarah R. Wade
+Validating Guest Contact Info: SarahRWade@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: SarahRWade@gmail.com
+Validating Room Number: 442...Done!
+[SUCCESS] set Room Number to: 442
+Validating Room Rate: 99.00...Done!
+[SUCCESS] set Room Rate to: 99.00
+Validating Length Of Stay: 9...Done!
+[SUCCESS] set Length Of Stay to: 9
+Validating Extra Expenses: 299.00...Done!
+[SUCCESS] set Extra Expenses to: 299.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 0...Done!
+[SUCCESS] set Deposit to: 0
+[SUCCESS] set Balance to: 1190
+[SUCCESS] set Total to: 1290.79
+...Done Processing Sarah R. Wade's Hotel Ticket
+
+20) Processing Lavonne L. Bible's Hotel Ticket...
+[debug] Vector size is: 11
+Validating Hotel Name: Four Seasons...Done!
+[SUCCESS] set Hotel Name to: Four Seasons
+Validating Hotel Address: 57 E 57th St, New York...Done!
+[SUCCESS] set Hotel Address to: 57 E 57th St, New York
+Validating Hotel Contact Info: 212-758-5700...Done!
+[SUCCESS] set Hotel Contact Info to: 212-758-5700
+Validating Guest Name: Lavonne L. Bible...Done!
+[SUCCESS] set Guest Name to: Lavonne L. Bible
+Validating Guest Contact Info: LavonneLBible@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: LavonneLBible@gmail.com
+Validating Room Number: 632...Done!
+[SUCCESS] set Room Number to: 632
+Validating Room Rate: 245.00...Done!
+[SUCCESS] set Room Rate to: 245.00
+Validating Length Of Stay: 7...Done!
+[SUCCESS] set Length Of Stay to: 7
+Validating Extra Expenses: 479.00...Done!
+[SUCCESS] set Extra Expenses to: 479.00
+Validating Tax: 8.47%...Done!
+[SUCCESS] set Tax to: 8.47%
+Validating Deposit: 300...Done!
+[SUCCESS] set Deposit to: 300
+[SUCCESS] set Balance to: 1894
+[SUCCESS] set Total to: 2054.42
+...Done Processing Lavonne L. Bible's Hotel Ticket
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1) Processing Kevin J. Merz's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: The book of mormon...Done!
+[SUCCESS] set Show Name to: The book of mormon
+Validating Show Venue: Eugene O'Neill Theatre...Done!
+[SUCCESS] set Show Venue to: Eugene O'Neill Theatre
+Validating Show Date: 10/4/2014...Done!
+[SUCCESS] set Show Date to: 10/4/2014
+Validating Start Time: 8:00PM...Done!
+[SUCCESS] set Start Time to: 8:00PM
+Validating Ending Time: 9:40PM...Done!
+[SUCCESS] set Ending Time to: 9:40PM
+Validating Guest Name: Kevin J. Merz...Done!
+[SUCCESS] set Guest Name to: Kevin J. Merz
+Validating Guest Contact Info: KevinJMerz@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: KevinJMerz@gmail.com
+Validating Seat Number: 15...Done!
+[SUCCESS] set Seat Number to: 15
+Validating Ticket Price: 169.00...Done!
+[SUCCESS] set Ticket Price to: 169.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: A new Broadway musical from the creators of South Park and Avenue Q...Done!
+[SUCCESS] set Extra Info to: A new Broadway musical from the creators of South Park and Avenue Q
+[SUCCESS] set Total Cost to: 179.14
+...Done Processing Kevin J. Merz's Concert Ticket
+
+2) Processing Amanda T. Tatum's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: The lion king...Done!
+[SUCCESS] set Show Name to: The lion king
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Show Venue to: Broadway
+Validating Show Date: 10/4/2014...Done!
+[SUCCESS] set Show Date to: 10/4/2014
+Validating Start Time: 10:00PM...Done!
+[SUCCESS] set Start Time to: 10:00PM
+Validating Ending Time: 11:20PM...Done!
+[SUCCESS] set Ending Time to: 11:20PM
+Validating Guest Name: Amanda T. Tatum...Done!
+[SUCCESS] set Guest Name to: Amanda T. Tatum
+Validating Guest Contact Info: AmandaTTatum@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: AmandaTTatum@gmail.com
+Validating Seat Number: 36...Done!
+[SUCCESS] set Seat Number to: 36
+Validating Ticket Price: 92.00...Done!
+[SUCCESS] set Ticket Price to: 92.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: Experience the circle of life as Disneys beloved film comes to eye-popping life onstage...Done!
+[SUCCESS] set Extra Info to: Experience the circle of life as Disneys beloved film comes to eye-popping life onstage
+[SUCCESS] set Total Cost to: 97.52
+...Done Processing Amanda T. Tatum's Concert Ticket
+
+3) Processing Ernest N. Perry's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Wicked...Done!
+[SUCCESS] set Show Name to: Wicked
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Show Venue to: Broadway
+Validating Show Date: 9/28/2014...Done!
+[SUCCESS] set Show Date to: 9/28/2014
+Validating Start Time: 5:00PM...Done!
+[SUCCESS] set Start Time to: 5:00PM
+Validating Ending Time: 6:00PM...Done!
+[SUCCESS] set Ending Time to: 6:00PM
+Validating Guest Name: Ernest N. Perry...Done!
+[SUCCESS] set Guest Name to: Ernest N. Perry
+Validating Guest Contact Info: ErnestNPerry@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: ErnestNPerry@gmail.com
+Validating Seat Number: 40...Done!
+[SUCCESS] set Seat Number to: 40
+Validating Ticket Price: 76.25...Done!
+[SUCCESS] set Ticket Price to: 76.25
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: The best musical of the decade...Done!
+[SUCCESS] set Extra Info to: The best musical of the decade
+[SUCCESS] set Total Cost to: 80.825
+...Done Processing Ernest N. Perry's Concert Ticket
+
+4) Processing Beverly T. Reyes's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Aladdin...Done!
+[SUCCESS] set Show Name to: Aladdin
+Validating Show Venue: Minskoff Theatre...Done!
+[SUCCESS] set Show Venue to: Minskoff Theatre
+Validating Show Date: 10/8/2014...Done!
+[SUCCESS] set Show Date to: 10/8/2014
+Validating Start Time: 4:00PM...Done!
+[SUCCESS] set Start Time to: 4:00PM
+Validating Ending Time: 5:30PM...Done!
+[SUCCESS] set Ending Time to: 5:30PM
+Validating Guest Name: Beverly T. Reyes...Done!
+[SUCCESS] set Guest Name to: Beverly T. Reyes
+Validating Guest Contact Info: BeverlyTReyes@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: BeverlyTReyes@gmail.com
+Validating Seat Number: 69...Done!
+[SUCCESS] set Seat Number to: 69
+Validating Ticket Price: 49.50...Done!
+[SUCCESS] set Ticket Price to: 49.50
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: Make way for Disney's new musical comedy!...Done!
+[SUCCESS] set Extra Info to: Make way for Disney's new musical comedy!
+[SUCCESS] set Total Cost to: 52.47
+...Done Processing Beverly T. Reyes's Concert Ticket
+
+5) Processing Jean D. Welsh's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: The phantom of the opera...Done!
+[SUCCESS] set Show Name to: The phantom of the opera
+Validating Show Venue: Majestic Theatre...Done!
+[SUCCESS] set Show Venue to: Majestic Theatre
+Validating Show Date: 10/7/2014...Done!
+[SUCCESS] set Show Date to: 10/7/2014
+Validating Start Time: 7:00PM...Done!
+[SUCCESS] set Start Time to: 7:00PM
+Validating Ending Time: 9:30PM...Done!
+[SUCCESS] set Ending Time to: 9:30PM
+Validating Guest Name: Jean D. Welsh...Done!
+[SUCCESS] set Guest Name to: Jean D. Welsh
+Validating Guest Contact Info: JeanDWelsh@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: JeanDWelsh@gmail.com
+Validating Seat Number: 9...Done!
+[SUCCESS] set Seat Number to: 9
+Validating Ticket Price: 39.00...Done!
+[SUCCESS] set Ticket Price to: 39.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: This haunting love story is Broadway's longest-running show!...Done!
+[SUCCESS] set Extra Info to: This haunting love story is Broadway's longest-running show!
+[SUCCESS] set Total Cost to: 41.34
+...Done Processing Jean D. Welsh's Concert Ticket
+
+6) Processing Mabel R. David's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Kinky boots...Done!
+[SUCCESS] set Show Name to: Kinky boots
+Validating Show Venue: Al Hirschfeld Theatre...Done!
+[SUCCESS] set Show Venue to: Al Hirschfeld Theatre
+Validating Show Date: 10/2/2014...Done!
+[SUCCESS] set Show Date to: 10/2/2014
+Validating Start Time: 9:00PM...Done!
+[SUCCESS] set Start Time to: 9:00PM
+Validating Ending Time: 9:30PM...Done!
+[SUCCESS] set Ending Time to: 9:30PM
+Validating Guest Name: Mabel R. David...Done!
+[SUCCESS] set Guest Name to: Mabel R. David
+Validating Guest Contact Info: MabelRDavid@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: MabelRDavid@gmail.com
+Validating Seat Number: 27...Done!
+[SUCCESS] set Seat Number to: 27
+Validating Ticket Price: 57.00...Done!
+[SUCCESS] set Ticket Price to: 57.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: Broadway's new high-heeled hit is the winner of six Tony Awards including Best Musical!...Done!
+[SUCCESS] set Extra Info to: Broadway's new high-heeled hit is the winner of six Tony Awards including Best Musical!
+[SUCCESS] set Total Cost to: 60.42
+...Done Processing Mabel R. David's Concert Ticket
+
+7) Processing Helen M. Gregory's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Jersey Boys...Done!
+[SUCCESS] set Show Name to: Jersey Boys
+Validating Show Venue: August Wilson Theatre...Done!
+[SUCCESS] set Show Venue to: August Wilson Theatre
+Validating Show Date: 10/3/2014...Done!
+[SUCCESS] set Show Date to: 10/3/2014
+Validating Start Time: 9:00PM...Done!
+[SUCCESS] set Start Time to: 9:00PM
+Validating Ending Time: 9:50PM...Done!
+[SUCCESS] set Ending Time to: 9:50PM
+Validating Guest Name: Helen M. Gregory...Done!
+[SUCCESS] set Guest Name to: Helen M. Gregory
+Validating Guest Contact Info: HelenMGregory@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: HelenMGregory@gmail.com
+Validating Seat Number: 7...Done!
+[SUCCESS] set Seat Number to: 7
+Validating Ticket Price: 97.00...Done!
+[SUCCESS] set Ticket Price to: 97.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: This Tony-winning rags-to-riches story is just too good to be true!...Done!
+[SUCCESS] set Extra Info to: This Tony-winning rags-to-riches story is just too good to be true!
+[SUCCESS] set Total Cost to: 102.82
+...Done Processing Helen M. Gregory's Concert Ticket
+
+8) Processing Chad A. Beaudoin's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Motown the musical...Done!
+[SUCCESS] set Show Name to: Motown the musical
+Validating Show Venue: Lunt-Fontaine Theatre...Done!
+[SUCCESS] set Show Venue to: Lunt-Fontaine Theatre
+Validating Show Date: 10/17/2014...Done!
+[SUCCESS] set Show Date to: 10/17/2014
+Validating Start Time: 9:00PM...Done!
+[SUCCESS] set Start Time to: 9:00PM
+Validating Ending Time: 10:50PM...Done!
+[SUCCESS] set Ending Time to: 10:50PM
+Validating Guest Name: Chad A. Beaudoin...Done!
+[SUCCESS] set Guest Name to: Chad A. Beaudoin
+Validating Guest Contact Info: ChadABeaudoin@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: ChadABeaudoin@gmail.com
+Validating Seat Number: 77...Done!
+[SUCCESS] set Seat Number to: 77
+Validating Ticket Price: 67.00...Done!
+[SUCCESS] set Ticket Price to: 67.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: A new musical based on the life on Motown founder Berry Gordy...Done!
+[SUCCESS] set Extra Info to: A new musical based on the life on Motown founder Berry Gordy
+[SUCCESS] set Total Cost to: 71.02
+...Done Processing Chad A. Beaudoin's Concert Ticket
+
+9) Processing Linda J. Hendricks's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Les miserables...Done!
+[SUCCESS] set Show Name to: Les miserables
+Validating Show Venue: Imperial Theatre...Done!
+[SUCCESS] set Show Venue to: Imperial Theatre
+Validating Show Date: 10/19/2014...Done!
+[SUCCESS] set Show Date to: 10/19/2014
+Validating Start Time: 6:00PM...Done!
+[SUCCESS] set Start Time to: 6:00PM
+Validating Ending Time: 8:50PM...Done!
+[SUCCESS] set Ending Time to: 8:50PM
+Validating Guest Name: Linda J. Hendricks...Done!
+[SUCCESS] set Guest Name to: Linda J. Hendricks
+Validating Guest Contact Info: LindaJHendricks@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: LindaJHendricks@gmail.com
+Validating Seat Number: 70...Done!
+[SUCCESS] set Seat Number to: 70
+Validating Ticket Price: 57.00...Done!
+[SUCCESS] set Ticket Price to: 57.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: The classic mega-musical returns to Broadway in a brand new production...Done!
+[SUCCESS] set Extra Info to: The classic mega-musical returns to Broadway in a brand new production
+[SUCCESS] set Total Cost to: 60.42
+...Done Processing Linda J. Hendricks's Concert Ticket
+
+10) Processing Karen G. Frye's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: If/Then...Done!
+[SUCCESS] set Show Name to: If/Then
+Validating Show Venue: Richard Rodgers Theatre...Done!
+[SUCCESS] set Show Venue to: Richard Rodgers Theatre
+Validating Show Date: 10/20/2014...Done!
+[SUCCESS] set Show Date to: 10/20/2014
+Validating Start Time: 7:00PM...Done!
+[SUCCESS] set Start Time to: 7:00PM
+Validating Ending Time: 8:50PM...Done!
+[SUCCESS] set Ending Time to: 8:50PM
+Validating Guest Name: Karen G. Frye...Done!
+[SUCCESS] set Guest Name to: Karen G. Frye
+Validating Guest Contact Info: KarenGFrye@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: KarenGFrye@gmail.com
+Validating Seat Number: 20...Done!
+[SUCCESS] set Seat Number to: 20
+Validating Ticket Price: 67.00...Done!
+[SUCCESS] set Ticket Price to: 67.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: A romantic, original musical by Pulitzer Prize-winning composing team of Tom Kitt and Brian Yorkey...Done!
+[SUCCESS] set Extra Info to: A romantic, original musical by Pulitzer Prize-winning composing team of Tom Kitt and Brian Yorkey
+[SUCCESS] set Total Cost to: 71.02
+...Done Processing Karen G. Frye's Concert Ticket
+
+11) Processing Kathy A. Coombs's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Beautiful...Done!
+[SUCCESS] set Show Name to: Beautiful
+Validating Show Venue: Stephen Sondheim Theatre...Done!
+[SUCCESS] set Show Venue to: Stephen Sondheim Theatre
+Validating Show Date: 10/21/2014...Done!
+[SUCCESS] set Show Date to: 10/21/2014
+Validating Start Time: 5:00PM...Done!
+[SUCCESS] set Start Time to: 5:00PM
+Validating Ending Time: 7:20PM...Done!
+[SUCCESS] set Ending Time to: 7:20PM
+Validating Guest Name: Kathy A. Coombs...Done!
+[SUCCESS] set Guest Name to: Kathy A. Coombs
+Validating Guest Contact Info: KathyACoombs@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: KathyACoombs@gmail.com
+Validating Seat Number: 30...Done!
+[SUCCESS] set Seat Number to: 30
+Validating Ticket Price: 75.00...Done!
+[SUCCESS] set Ticket Price to: 75.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: A new musical telling the story of Carole King's life through her music...Done!
+[SUCCESS] set Extra Info to: A new musical telling the story of Carole King's life through her music
+[SUCCESS] set Total Cost to: 79.5
+...Done Processing Kathy A. Coombs's Concert Ticket
+
+12) Processing Hattie J. Schultzs's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Mamma mia!...Done!
+[SUCCESS] set Show Name to: Mamma mia!
+Validating Show Venue: Broadhurst Theatre...Done!
+[SUCCESS] set Show Venue to: Broadhurst Theatre
+Validating Show Date: 10/22/2014...Done!
+[SUCCESS] set Show Date to: 10/22/2014
+Validating Start Time: 5:00PM...Done!
+[SUCCESS] set Start Time to: 5:00PM
+Validating Ending Time: 7:20PM...Done!
+[SUCCESS] set Ending Time to: 7:20PM
+Validating Guest Name: Hattie J. Schultzs...Done!
+[SUCCESS] set Guest Name to: Hattie J. Schultzs
+Validating Guest Contact Info: HattieJSchultz@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: HattieJSchultz@gmail.com
+Validating Seat Number: 78...Done!
+[SUCCESS] set Seat Number to: 78
+Validating Ticket Price: 70.00...Done!
+[SUCCESS] set Ticket Price to: 70.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: A mother. A daughter. Three possible dads. And a trip down the aisle you'll never forget!...Done!
+[SUCCESS] set Extra Info to: A mother. A daughter. Three possible dads. And a trip down the aisle you'll never forget!
+[SUCCESS] set Total Cost to: 74.2
+...Done Processing Hattie J. Schultzs's Concert Ticket
+
+13) Processing Margaret M. Gandy's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Matilda...Done!
+[SUCCESS] set Show Name to: Matilda
+Validating Show Venue: Shubert Theatre...Done!
+[SUCCESS] set Show Venue to: Shubert Theatre
+Validating Show Date: 10/11/2014...Done!
+[SUCCESS] set Show Date to: 10/11/2014
+Validating Start Time: 7:00PM...Done!
+[SUCCESS] set Start Time to: 7:00PM
+Validating Ending Time: 8:30PM...Done!
+[SUCCESS] set Ending Time to: 8:30PM
+Validating Guest Name: Margaret M. Gandy...Done!
+[SUCCESS] set Guest Name to: Margaret M. Gandy
+Validating Guest Contact Info: MargaretMGandy@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: MargaretMGandy@gmail.com
+Validating Seat Number: 706...Done!
+[SUCCESS] set Seat Number to: 706
+Validating Ticket Price: 37.00...Done!
+[SUCCESS] set Ticket Price to: 37.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: Roald Dahl's classic children's story arrives on Broadway...Done!
+[SUCCESS] set Extra Info to: Roald Dahl's classic children's story arrives on Broadway
+[SUCCESS] set Total Cost to: 39.22
+...Done Processing Margaret M. Gandy's Concert Ticket
+
+14) Processing Harry D. Schaefer's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Cinderella...Done!
+[SUCCESS] set Show Name to: Cinderella
+Validating Show Venue: Broadway Theatre...Done!
+[SUCCESS] set Show Venue to: Broadway Theatre
+Validating Show Date: 10/1/2014...Done!
+[SUCCESS] set Show Date to: 10/1/2014
+Validating Start Time: 9:00PM...Done!
+[SUCCESS] set Start Time to: 9:00PM
+Validating Ending Time: 10:30PM...Done!
+[SUCCESS] set Ending Time to: 10:30PM
+Validating Guest Name: Harry D. Schaefer...Done!
+[SUCCESS] set Guest Name to: Harry D. Schaefer
+Validating Guest Contact Info: HarryDSchaefer@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: HarryDSchaefer@gmail.com
+Validating Seat Number: 200...Done!
+[SUCCESS] set Seat Number to: 200
+Validating Ticket Price: 45.00...Done!
+[SUCCESS] set Ticket Price to: 45.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: Rodgers and Hammerstein's take on the classic tale...Done!
+[SUCCESS] set Extra Info to: Rodgers and Hammerstein's take on the classic tale
+[SUCCESS] set Total Cost to: 47.7
+...Done Processing Harry D. Schaefer's Concert Ticket
+
+15) Processing Kristin D. Hicks's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Chicago...Done!
+[SUCCESS] set Show Name to: Chicago
+Validating Show Venue: Ambassador Theatre...Done!
+[SUCCESS] set Show Venue to: Ambassador Theatre
+Validating Show Date: 10/12/2014...Done!
+[SUCCESS] set Show Date to: 10/12/2014
+Validating Start Time: 10:00PM...Done!
+[SUCCESS] set Start Time to: 10:00PM
+Validating Ending Time: 10:30PM...Done!
+[SUCCESS] set Ending Time to: 10:30PM
+Validating Guest Name: Kristin D. Hicks...Done!
+[SUCCESS] set Guest Name to: Kristin D. Hicks
+Validating Guest Contact Info: KristinDHicks@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: KristinDHicks@gmail.com
+Validating Seat Number: 590...Done!
+[SUCCESS] set Seat Number to: 590
+Validating Ticket Price: 49.50...Done!
+[SUCCESS] set Ticket Price to: 49.50
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: This Tony-winning revival of Kander and Ebb's musical will razzle-dazzle you...Done!
+[SUCCESS] set Extra Info to: This Tony-winning revival of Kander and Ebb's musical will razzle-dazzle you
+[SUCCESS] set Total Cost to: 52.47
+...Done Processing Kristin D. Hicks's Concert Ticket
+
+16) Processing Florence J. Ford's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Rock of ages...Done!
+[SUCCESS] set Show Name to: Rock of ages
+Validating Show Venue: Helen Hayes Theatre...Done!
+[SUCCESS] set Show Venue to: Helen Hayes Theatre
+Validating Show Date: 10/12/2014...Done!
+[SUCCESS] set Show Date to: 10/12/2014
+Validating Start Time: 4:00PM...Done!
+[SUCCESS] set Start Time to: 4:00PM
+Validating Ending Time: 7:30PM...Done!
+[SUCCESS] set Ending Time to: 7:30PM
+Validating Guest Name: Florence J. Ford...Done!
+[SUCCESS] set Guest Name to: Florence J. Ford
+Validating Guest Contact Info: FlorenceJFord@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: FlorenceJFord@gmail.com
+Validating Seat Number: 590...Done!
+[SUCCESS] set Seat Number to: 590
+Validating Ticket Price: 70.00...Done!
+[SUCCESS] set Ticket Price to: 70.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: A rock musical with the greatest hits of the eightys...Done!
+[SUCCESS] set Extra Info to: A rock musical with the greatest hits of the eightys
+[SUCCESS] set Total Cost to: 74.2
+...Done Processing Florence J. Ford's Concert Ticket
+
+17) Processing Mary W. Mathews's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Hedwig and the angry inch...Done!
+[SUCCESS] set Show Name to: Hedwig and the angry inch
+Validating Show Venue: Belasco Theatre...Done!
+[SUCCESS] set Show Venue to: Belasco Theatre
+Validating Show Date: 10/28/2014...Done!
+[SUCCESS] set Show Date to: 10/28/2014
+Validating Start Time: 6:00PM...Done!
+[SUCCESS] set Start Time to: 6:00PM
+Validating Ending Time: 7:30PM...Done!
+[SUCCESS] set Ending Time to: 7:30PM
+Validating Guest Name: Mary W. Mathews...Done!
+[SUCCESS] set Guest Name to: Mary W. Mathews
+Validating Guest Contact Info: MaryWMathews@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: MaryWMathews@gmail.com
+Validating Seat Number: 70...Done!
+[SUCCESS] set Seat Number to: 70
+Validating Ticket Price: 47.00...Done!
+[SUCCESS] set Ticket Price to: 47.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: Andrew Rannells stars in John Cameron Mitchell and Stephen Trask's rock musical...Done!
+[SUCCESS] set Extra Info to: Andrew Rannells stars in John Cameron Mitchell and Stephen Trask's rock musical
+[SUCCESS] set Total Cost to: 49.82
+...Done Processing Mary W. Mathews's Concert Ticket
+
+18) Processing Mary W. Mathews's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: Once...Done!
+[SUCCESS] set Show Name to: Once
+Validating Show Venue: Benard B. Jacobs Theatre...Done!
+[SUCCESS] set Show Venue to: Benard B. Jacobs Theatre
+Validating Show Date: 11/5/2014...Done!
+[SUCCESS] set Show Date to: 11/5/2014
+Validating Start Time: 7:00PM...Done!
+[SUCCESS] set Start Time to: 7:00PM
+Validating Ending Time: 9:00PM...Done!
+[SUCCESS] set Ending Time to: 9:00PM
+Validating Guest Name: Mary W. Mathews...Done!
+[SUCCESS] set Guest Name to: Mary W. Mathews
+Validating Guest Contact Info: MaryWMathews@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: MaryWMathews@gmail.com
+Validating Seat Number: 128...Done!
+[SUCCESS] set Seat Number to: 128
+Validating Ticket Price: 59.50...Done!
+[SUCCESS] set Ticket Price to: 59.50
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: The stage adaptation of the Oscar-winning film comes to Broadway...Done!
+[SUCCESS] set Extra Info to: The stage adaptation of the Oscar-winning film comes to Broadway
+[SUCCESS] set Total Cost to: 63.07
+...Done Processing Mary W. Mathews's Concert Ticket
+
+19) Processing Sarah R. Wade's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: The last ship...Done!
+[SUCCESS] set Show Name to: The last ship
+Validating Show Venue: Neil Simon Theatre...Done!
+[SUCCESS] set Show Venue to: Neil Simon Theatre
+Validating Show Date: 11/28/2014...Done!
+[SUCCESS] set Show Date to: 11/28/2014
+Validating Start Time: 9:00PM...Done!
+[SUCCESS] set Start Time to: 9:00PM
+Validating Ending Time: 4:00PM...Done!
+[SUCCESS] set Ending Time to: 4:00PM
+Validating Guest Name: Sarah R. Wade...Done!
+[SUCCESS] set Guest Name to: Sarah R. Wade
+Validating Guest Contact Info: SarahRWade@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: SarahRWade@gmail.com
+Validating Seat Number: 247...Done!
+[SUCCESS] set Seat Number to: 247
+Validating Ticket Price: 55.00...Done!
+[SUCCESS] set Ticket Price to: 55.00
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: A new musical featuring an original score by Sting...Done!
+[SUCCESS] set Extra Info to: A new musical featuring an original score by Sting
+[SUCCESS] set Total Cost to: 58.3
+...Done Processing Sarah R. Wade's Concert Ticket
+
+20) Processing Lavonne L. Bible's Concert Ticket...
+Validating Service Provider Name: Broadway...Done!
+[SUCCESS] set Service Provider Name to: Broadway
+Validating Service Provider Contact Info: 800-276-2392...Done!
+[SUCCESS] set Service Provider Contact Info to: 800-276-2392
+Validating Show Name: On the town...Done!
+[SUCCESS] set Show Name to: On the town
+Validating Show Venue: Lyric Theatre...Done!
+[SUCCESS] set Show Venue to: Lyric Theatre
+Validating Show Date: 11/26/2014...Done!
+[SUCCESS] set Show Date to: 11/26/2014
+Validating Start Time: 10:00PM...Done!
+[SUCCESS] set Start Time to: 10:00PM
+Validating Ending Time: 12:00AM...Done!
+[SUCCESS] set Ending Time to: 12:00AM
+Validating Guest Name: Lavonne L. Bible...Done!
+[SUCCESS] set Guest Name to: Lavonne L. Bible
+Validating Guest Contact Info: LavonneLBible@gmail.com...Done!
+[SUCCESS] set Guest Contact Info to: LavonneLBible@gmail.com
+Validating Seat Number: 132...Done!
+[SUCCESS] set Seat Number to: 132
+Validating Ticket Price: 37.50...Done!
+[SUCCESS] set Ticket Price to: 37.50
+Validating Tax: 6%...Done!
+[SUCCESS] set Tax to: 6%
+Validating Extra Info: Leonard Bernstein, Betty Comden and Adolph Green's musical returns to New York...Done!
+[SUCCESS] set Extra Info to: Leonard Bernstein, Betty Comden and Adolph Green's musical returns to New York
+[SUCCESS] set Total Cost to: 39.75
+...Done Processing Lavonne L. Bible's Concert Ticket
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1) Processing Elliot R. McClanahan's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Elliot R. McClanahan...Done!
+[SUCCESS] set Passenger Name to: Elliot R. McClanahan
+Validating Passenger Contact Info: ElliotRMcClanahan@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: ElliotRMcClanahan@gmail.com
+Validating Departure Date: 10/11/2014...Done!
+[SUCCESS] set Departure Date to: 10/11/2014
+Validating Departure Time: 9:00 am...Done!
+[SUCCESS] set Departure Time to: 9:00 am
+Validating Cruise Ship Name: Carnival Breeze...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Breeze
+Validating Passenger Outbound Cabin Num: E176...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E176
+Validating Return Date: 10/14/2014...Done!
+[SUCCESS] set Return Date to: 10/14/2014
+Validating Return Time: 2:00 pm...Done!
+[SUCCESS] set Return Time to: 2:00 pm
+Validating Passenger Return Cabin Num: F120...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F120
+Validating Ticket Cost: 430.00...Done!
+[SUCCESS] set Ticket Cost to: 430.00
+Validating Extra Charges: 125.00...Done!
+[SUCCESS] set Extra Charges to: 125.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Ocean View...Done!
+[SUCCESS] set Extra Info to: Ocean View
+[SUCCESS] set Total Cost to: 577.2
+...Done Processing Elliot R. McClanahan's Cruise Ticket
+
+2) Processing Kevin J. Merz's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Kevin J. Merz...Done!
+[SUCCESS] set Passenger Name to: Kevin J. Merz
+Validating Passenger Contact Info: KevinJMerz@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: KevinJMerz@gmail.com
+Validating Departure Date: 10/21/2014...Done!
+[SUCCESS] set Departure Date to: 10/21/2014
+Validating Departure Time: 9:00 am...Done!
+[SUCCESS] set Departure Time to: 9:00 am
+Validating Cruise Ship Name: Carnival Conquest...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Conquest
+Validating Passenger Outbound Cabin Num: E180...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E180
+Validating Return Date: 10/25/2014...Done!
+[SUCCESS] set Return Date to: 10/25/2014
+Validating Return Time: 12:00 pm...Done!
+[SUCCESS] set Return Time to: 12:00 pm
+Validating Passenger Return Cabin Num: F132...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F132
+Validating Ticket Cost: 512.00...Done!
+[SUCCESS] set Ticket Cost to: 512.00
+Validating Extra Charges: 112.00...Done!
+[SUCCESS] set Extra Charges to: 112.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Interior...Done!
+[SUCCESS] set Extra Info to: Interior
+[SUCCESS] set Total Cost to: 648.96
+...Done Processing Kevin J. Merz's Cruise Ticket
+
+3) Processing Amanda T. Tatum's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Amanda T. Tatum...Done!
+[SUCCESS] set Passenger Name to: Amanda T. Tatum
+Validating Passenger Contact Info: AmandaTTatum@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: AmandaTTatum@gmail.com
+Validating Departure Date: 10/28/2014...Done!
+[SUCCESS] set Departure Date to: 10/28/2014
+Validating Departure Time: 9:00 am...Done!
+[SUCCESS] set Departure Time to: 9:00 am
+Validating Cruise Ship Name: Carnival Dream...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Dream
+Validating Passenger Outbound Cabin Num: E186...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E186
+Validating Return Date: 10/30/2014...Done!
+[SUCCESS] set Return Date to: 10/30/2014
+Validating Return Time: 2:00 pm...Done!
+[SUCCESS] set Return Time to: 2:00 pm
+Validating Passenger Return Cabin Num: F144...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F144
+Validating Ticket Cost: 526.00...Done!
+[SUCCESS] set Ticket Cost to: 526.00
+Validating Extra Charges: 100.00...Done!
+[SUCCESS] set Extra Charges to: 100.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Balcony...Done!
+[SUCCESS] set Extra Info to: Balcony
+[SUCCESS] set Total Cost to: 651.04
+...Done Processing Amanda T. Tatum's Cruise Ticket
+
+4) Processing Ernest N. Perry's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Ernest N. Perry...Done!
+[SUCCESS] set Passenger Name to: Ernest N. Perry
+Validating Passenger Contact Info: ErnestNPerry@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: ErnestNPerry@gmail.com
+Validating Departure Date: 11/8/2014...Done!
+[SUCCESS] set Departure Date to: 11/8/2014
+Validating Departure Time: 10:00 am...Done!
+[SUCCESS] set Departure Time to: 10:00 am
+Validating Cruise Ship Name: Carnival Ectasy...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Ectasy
+Validating Passenger Outbound Cabin Num: E189...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E189
+Validating Return Date: 11/12/2014...Done!
+[SUCCESS] set Return Date to: 11/12/2014
+Validating Return Time: 12:30 pm...Done!
+[SUCCESS] set Return Time to: 12:30 pm
+Validating Passenger Return Cabin Num: F162...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F162
+Validating Ticket Cost: 608.00...Done!
+[SUCCESS] set Ticket Cost to: 608.00
+Validating Extra Charges: 220.00...Done!
+[SUCCESS] set Extra Charges to: 220.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Balcony...Done!
+[SUCCESS] set Extra Info to: Balcony
+[SUCCESS] set Total Cost to: 861.12
+...Done Processing Ernest N. Perry's Cruise Ticket
+
+5) Processing Beverly T. Reyes's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Beverly T. Reyes...Done!
+[SUCCESS] set Passenger Name to: Beverly T. Reyes
+Validating Passenger Contact Info: BeverlyTReyes@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: BeverlyTReyes@gmail.com
+Validating Departure Date: 11/16/2014...Done!
+[SUCCESS] set Departure Date to: 11/16/2014
+Validating Departure Time: 12:00 am...Done!
+[SUCCESS] set Departure Time to: 12:00 am
+Validating Cruise Ship Name: Carnival Elation...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Elation
+Validating Passenger Outbound Cabin Num: E192...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E192
+Validating Return Date: 11/21/2014...Done!
+[SUCCESS] set Return Date to: 11/21/2014
+Validating Return Time: 4:30 pm...Done!
+[SUCCESS] set Return Time to: 4:30 pm
+Validating Passenger Return Cabin Num: F194...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F194
+Validating Ticket Cost: 612.00...Done!
+[SUCCESS] set Ticket Cost to: 612.00
+Validating Extra Charges: 340.00...Done!
+[SUCCESS] set Extra Charges to: 340.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Interior...Done!
+[SUCCESS] set Extra Info to: Interior
+[SUCCESS] set Total Cost to: 990.08
+...Done Processing Beverly T. Reyes's Cruise Ticket
+
+6) Processing Jean D. Welsh's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Jean D. Welsh...Done!
+[SUCCESS] set Passenger Name to: Jean D. Welsh
+Validating Passenger Contact Info: JeanDWelsh@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: JeanDWelsh@gmail.com
+Validating Departure Date: 11/25/2014...Done!
+[SUCCESS] set Departure Date to: 11/25/2014
+Validating Departure Time: 11:00 am...Done!
+[SUCCESS] set Departure Time to: 11:00 am
+Validating Cruise Ship Name: Carnival Fantasy...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Fantasy
+Validating Passenger Outbound Cabin Num: E198...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E198
+Validating Return Date: 11/28/2014...Done!
+[SUCCESS] set Return Date to: 11/28/2014
+Validating Return Time: 2:30 pm...Done!
+[SUCCESS] set Return Time to: 2:30 pm
+Validating Passenger Return Cabin Num: F216...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F216
+Validating Ticket Cost: 324.00...Done!
+[SUCCESS] set Ticket Cost to: 324.00
+Validating Extra Charges: 408.00...Done!
+[SUCCESS] set Extra Charges to: 408.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Interior...Done!
+[SUCCESS] set Extra Info to: Interior
+[SUCCESS] set Total Cost to: 761.28
+...Done Processing Jean D. Welsh's Cruise Ticket
+
+7) Processing Mabel R. David's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Mabel R. David...Done!
+[SUCCESS] set Passenger Name to: Mabel R. David
+Validating Passenger Contact Info: MabelRDavid@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: MabelRDavid@gmail.com
+Validating Departure Date: 11/30/2014...Done!
+[SUCCESS] set Departure Date to: 11/30/2014
+Validating Departure Time: 8:00 am...Done!
+[SUCCESS] set Departure Time to: 8:00 am
+Validating Cruise Ship Name: Carnival Fascination...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Fascination
+Validating Passenger Outbound Cabin Num: E216...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E216
+Validating Return Date: 12/4/2014...Done!
+[SUCCESS] set Return Date to: 12/4/2014
+Validating Return Time: 3:00 pm...Done!
+[SUCCESS] set Return Time to: 3:00 pm
+Validating Passenger Return Cabin Num: F320...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F320
+Validating Ticket Cost: 680.00...Done!
+[SUCCESS] set Ticket Cost to: 680.00
+Validating Extra Charges: 126.00...Done!
+[SUCCESS] set Extra Charges to: 126.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Suite...Done!
+[SUCCESS] set Extra Info to: Suite
+[SUCCESS] set Total Cost to: 838.24
+...Done Processing Mabel R. David's Cruise Ticket
+
+8) Processing Helen M. Gregory's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Helen M. Gregory...Done!
+[SUCCESS] set Passenger Name to: Helen M. Gregory
+Validating Passenger Contact Info: HelenMGregory@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: HelenMGregory@gmail.com
+Validating Departure Date: 12/6/2014...Done!
+[SUCCESS] set Departure Date to: 12/6/2014
+Validating Departure Time: 1:00 pm...Done!
+[SUCCESS] set Departure Time to: 1:00 pm
+Validating Cruise Ship Name: Carnival Freedom...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Freedom
+Validating Passenger Outbound Cabin Num: E245...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E245
+Validating Return Date: 12/10/2014...Done!
+[SUCCESS] set Return Date to: 12/10/2014
+Validating Return Time: 6:00 pm...Done!
+[SUCCESS] set Return Time to: 6:00 pm
+Validating Passenger Return Cabin Num: F411...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F411
+Validating Ticket Cost: 412.00...Done!
+[SUCCESS] set Ticket Cost to: 412.00
+Validating Extra Charges: 192.00...Done!
+[SUCCESS] set Extra Charges to: 192.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Ocean View...Done!
+[SUCCESS] set Extra Info to: Ocean View
+[SUCCESS] set Total Cost to: 628.16
+...Done Processing Helen M. Gregory's Cruise Ticket
+
+9) Processing Chad A. Beaudoin's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Chad A. Beaudoin...Done!
+[SUCCESS] set Passenger Name to: Chad A. Beaudoin
+Validating Passenger Contact Info: ChadABeaudoin@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: ChadABeaudoin@gmail.com
+Validating Departure Date: 12/18/2014...Done!
+[SUCCESS] set Departure Date to: 12/18/2014
+Validating Departure Time: 8:00 pm...Done!
+[SUCCESS] set Departure Time to: 8:00 pm
+Validating Cruise Ship Name: Carnival Glory...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Glory
+Validating Passenger Outbound Cabin Num: E287...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E287
+Validating Return Date: 12/23/2014...Done!
+[SUCCESS] set Return Date to: 12/23/2014
+Validating Return Time: 6:00 am...Done!
+[SUCCESS] set Return Time to: 6:00 am
+Validating Passenger Return Cabin Num: F324...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F324
+Validating Ticket Cost: 542.00...Done!
+[SUCCESS] set Ticket Cost to: 542.00
+Validating Extra Charges: 88.00...Done!
+[SUCCESS] set Extra Charges to: 88.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Ocean View...Done!
+[SUCCESS] set Extra Info to: Ocean View
+[SUCCESS] set Total Cost to: 655.2
+...Done Processing Chad A. Beaudoin's Cruise Ticket
+
+10) Processing Linda J. Hendricks's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Linda J. Hendricks...Done!
+[SUCCESS] set Passenger Name to: Linda J. Hendricks
+Validating Passenger Contact Info: LindaJHendricks@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: LindaJHendricks@gmail.com
+Validating Departure Date: 12/28/2014...Done!
+[SUCCESS] set Departure Date to: 12/28/2014
+Validating Departure Time: 12:00 pm...Done!
+[SUCCESS] set Departure Time to: 12:00 pm
+Validating Cruise Ship Name: Carnival Imagination...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Imagination
+Validating Passenger Outbound Cabin Num: E310...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E310
+Validating Return Date: 01/2/2014...Done!
+[SUCCESS] set Return Date to: 01/2/2014
+Validating Return Time: 4:30 am...Done!
+[SUCCESS] set Return Time to: 4:30 am
+Validating Passenger Return Cabin Num: F249...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F249
+Validating Ticket Cost: 460.00...Done!
+[SUCCESS] set Ticket Cost to: 460.00
+Validating Extra Charges: 324.00...Done!
+[SUCCESS] set Extra Charges to: 324.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Interior...Done!
+[SUCCESS] set Extra Info to: Interior
+[SUCCESS] set Total Cost to: 815.36
+...Done Processing Linda J. Hendricks's Cruise Ticket
+
+11) Processing Karen G. Frye's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Karen G. Frye...Done!
+[SUCCESS] set Passenger Name to: Karen G. Frye
+Validating Passenger Contact Info: KarenGFrye@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: KarenGFrye@gmail.com
+Validating Departure Date: 01/4/2015...Done!
+[SUCCESS] set Departure Date to: 01/4/2015
+Validating Departure Time: 7:30 am...Done!
+[SUCCESS] set Departure Time to: 7:30 am
+Validating Cruise Ship Name: Carnival Inspiration...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Inspiration
+Validating Passenger Outbound Cabin Num: E460...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E460
+Validating Return Date: 01/9/2014...Done!
+[SUCCESS] set Return Date to: 01/9/2014
+Validating Return Time: 12:45 pm...Done!
+[SUCCESS] set Return Time to: 12:45 pm
+Validating Passenger Return Cabin Num: F112...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F112
+Validating Ticket Cost: 495.00...Done!
+[SUCCESS] set Ticket Cost to: 495.00
+Validating Extra Charges: 356.00...Done!
+[SUCCESS] set Extra Charges to: 356.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Interior...Done!
+[SUCCESS] set Extra Info to: Interior
+[SUCCESS] set Total Cost to: 885.04
+...Done Processing Karen G. Frye's Cruise Ticket
+
+12) Processing Kathy A. Coombs's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Kathy A. Coombs...Done!
+[SUCCESS] set Passenger Name to: Kathy A. Coombs
+Validating Passenger Contact Info: KathyACoombs@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: KathyACoombs@gmail.com
+Validating Departure Date: 01/13/2015...Done!
+[SUCCESS] set Departure Date to: 01/13/2015
+Validating Departure Time: 6:40 am...Done!
+[SUCCESS] set Departure Time to: 6:40 am
+Validating Cruise Ship Name: Carnival Legend...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Legend
+Validating Passenger Outbound Cabin Num: E512...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E512
+Validating Return Date: 01/26/2014...Done!
+[SUCCESS] set Return Date to: 01/26/2014
+Validating Return Time: 2:50 pm...Done!
+[SUCCESS] set Return Time to: 2:50 pm
+Validating Passenger Return Cabin Num: F89...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F89
+Validating Ticket Cost: 666.00...Done!
+[SUCCESS] set Ticket Cost to: 666.00
+Validating Extra Charges: 197.00...Done!
+[SUCCESS] set Extra Charges to: 197.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Interior...Done!
+[SUCCESS] set Extra Info to: Interior
+[SUCCESS] set Total Cost to: 897.52
+...Done Processing Kathy A. Coombs's Cruise Ticket
+
+13) Processing Hattie J. Schultz's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Hattie J. Schultz...Done!
+[SUCCESS] set Passenger Name to: Hattie J. Schultz
+Validating Passenger Contact Info: HattieJSchultz@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: HattieJSchultz@gmail.com
+Validating Departure Date: 01/24/2015...Done!
+[SUCCESS] set Departure Date to: 01/24/2015
+Validating Departure Time: 8:45 am...Done!
+[SUCCESS] set Departure Time to: 8:45 am
+Validating Cruise Ship Name: Carnival Liberty...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Liberty
+Validating Passenger Outbound Cabin Num: E526...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E526
+Validating Return Date: 01/29/2014...Done!
+[SUCCESS] set Return Date to: 01/29/2014
+Validating Return Time: 10:45 am...Done!
+[SUCCESS] set Return Time to: 10:45 am
+Validating Passenger Return Cabin Num: F92...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F92
+Validating Ticket Cost: 468.00...Done!
+[SUCCESS] set Ticket Cost to: 468.00
+Validating Extra Charges: 273.00...Done!
+[SUCCESS] set Extra Charges to: 273.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Balcony...Done!
+[SUCCESS] set Extra Info to: Balcony
+[SUCCESS] set Total Cost to: 770.64
+...Done Processing Hattie J. Schultz's Cruise Ticket
+
+14) Processing Margaret M. Gandy's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Margaret M. Gandy...Done!
+[SUCCESS] set Passenger Name to: Margaret M. Gandy
+Validating Passenger Contact Info: MargaretMGandy@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: MargaretMGandy@gmail.com
+Validating Departure Date: 01/30/2015...Done!
+[SUCCESS] set Departure Date to: 01/30/2015
+Validating Departure Time: 9:45 am...Done!
+[SUCCESS] set Departure Time to: 9:45 am
+Validating Cruise Ship Name: Carnival Magic...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Magic
+Validating Passenger Outbound Cabin Num: E311...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E311
+Validating Return Date: 02/16/2014...Done!
+[SUCCESS] set Return Date to: 02/16/2014
+Validating Return Time: 2:45 pm...Done!
+[SUCCESS] set Return Time to: 2:45 pm
+Validating Passenger Return Cabin Num: F188...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F188
+Validating Ticket Cost: 840.00...Done!
+[SUCCESS] set Ticket Cost to: 840.00
+Validating Extra Charges: 96.00...Done!
+[SUCCESS] set Extra Charges to: 96.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Suite...Done!
+[SUCCESS] set Extra Info to: Suite
+[SUCCESS] set Total Cost to: 973.44
+...Done Processing Margaret M. Gandy's Cruise Ticket
+
+15) Processing Harry D. Schaefer's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Harry D. Schaefer...Done!
+[SUCCESS] set Passenger Name to: Harry D. Schaefer
+Validating Passenger Contact Info: HarryDSchaefer@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: HarryDSchaefer@gmail.com
+Validating Departure Date: 02/8/2015...Done!
+[SUCCESS] set Departure Date to: 02/8/2015
+Validating Departure Time: 10:30 am...Done!
+[SUCCESS] set Departure Time to: 10:30 am
+Validating Cruise Ship Name: Carnival Miracle...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Miracle
+Validating Passenger Outbound Cabin Num: E277...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E277
+Validating Return Date: 02/12/2014...Done!
+[SUCCESS] set Return Date to: 02/12/2014
+Validating Return Time: 2:00 pm...Done!
+[SUCCESS] set Return Time to: 2:00 pm
+Validating Passenger Return Cabin Num: F299...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F299
+Validating Ticket Cost: 711.00...Done!
+[SUCCESS] set Ticket Cost to: 711.00
+Validating Extra Charges: 136.00...Done!
+[SUCCESS] set Extra Charges to: 136.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Suite...Done!
+[SUCCESS] set Extra Info to: Suite
+[SUCCESS] set Total Cost to: 880.88
+...Done Processing Harry D. Schaefer's Cruise Ticket
+
+16) Processing Kristin D. Hicks's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Kristin D. Hicks...Done!
+[SUCCESS] set Passenger Name to: Kristin D. Hicks
+Validating Passenger Contact Info: KristinDHicks@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: KristinDHicks@gmail.com
+Validating Departure Date: 02/16/2015...Done!
+[SUCCESS] set Departure Date to: 02/16/2015
+Validating Departure Time: 10:00 am...Done!
+[SUCCESS] set Departure Time to: 10:00 am
+Validating Cruise Ship Name: Carnival Paradise...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Paradise
+Validating Passenger Outbound Cabin Num: E110...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E110
+Validating Return Date: 02/21/2014...Done!
+[SUCCESS] set Return Date to: 02/21/2014
+Validating Return Time: 4:45 pm...Done!
+[SUCCESS] set Return Time to: 4:45 pm
+Validating Passenger Return Cabin Num: F306...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F306
+Validating Ticket Cost: 523.00...Done!
+[SUCCESS] set Ticket Cost to: 523.00
+Validating Extra Charges: 264.00...Done!
+[SUCCESS] set Extra Charges to: 264.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Balcony...Done!
+[SUCCESS] set Extra Info to: Balcony
+[SUCCESS] set Total Cost to: 818.48
+...Done Processing Kristin D. Hicks's Cruise Ticket
+
+17) Processing Florence J. Ford's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Florence J. Ford...Done!
+[SUCCESS] set Passenger Name to: Florence J. Ford
+Validating Passenger Contact Info: FlorenceJFord@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: FlorenceJFord@gmail.com
+Validating Departure Date: 02/21/2015...Done!
+[SUCCESS] set Departure Date to: 02/21/2015
+Validating Departure Time: 12:25 am...Done!
+[SUCCESS] set Departure Time to: 12:25 am
+Validating Cruise Ship Name: Carnival Pride...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Pride
+Validating Passenger Outbound Cabin Num: E646...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E646
+Validating Return Date: 02/27/2014...Done!
+[SUCCESS] set Return Date to: 02/27/2014
+Validating Return Time: 6:50 am...Done!
+[SUCCESS] set Return Time to: 6:50 am
+Validating Passenger Return Cabin Num: F402...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F402
+Validating Ticket Cost: 640.00...Done!
+[SUCCESS] set Ticket Cost to: 640.00
+Validating Extra Charges: 344.00...Done!
+[SUCCESS] set Extra Charges to: 344.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Suite...Done!
+[SUCCESS] set Extra Info to: Suite
+[SUCCESS] set Total Cost to: 1023.36
+...Done Processing Florence J. Ford's Cruise Ticket
+
+18) Processing Mary W. Mathews's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Mary W. Mathews...Done!
+[SUCCESS] set Passenger Name to: Mary W. Mathews
+Validating Passenger Contact Info: MaryWMathews@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: MaryWMathews@gmail.com
+Validating Departure Date: 03/11/2015...Done!
+[SUCCESS] set Departure Date to: 03/11/2015
+Validating Departure Time: 1:45 pm...Done!
+[SUCCESS] set Departure Time to: 1:45 pm
+Validating Cruise Ship Name: Carnival Sensation...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Sensation
+Validating Passenger Outbound Cabin Num: E88...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E88
+Validating Return Date: 03/20/2014...Done!
+[SUCCESS] set Return Date to: 03/20/2014
+Validating Return Time: 7:00 pm...Done!
+[SUCCESS] set Return Time to: 7:00 pm
+Validating Passenger Return Cabin Num: F611...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F611
+Validating Ticket Cost: 560.00...Done!
+[SUCCESS] set Ticket Cost to: 560.00
+Validating Extra Charges: 418.00...Done!
+[SUCCESS] set Extra Charges to: 418.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Ocean View...Done!
+[SUCCESS] set Extra Info to: Ocean View
+[SUCCESS] set Total Cost to: 1017.12
+...Done Processing Mary W. Mathews's Cruise Ticket
+
+19) Processing Sarah R. Wade's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Sarah R. Wade...Done!
+[SUCCESS] set Passenger Name to: Sarah R. Wade
+Validating Passenger Contact Info: SarahRWade@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: SarahRWade@gmail.com
+Validating Departure Date: 04/21/2015...Done!
+[SUCCESS] set Departure Date to: 04/21/2015
+Validating Departure Time: 2:30 pm...Done!
+[SUCCESS] set Departure Time to: 2:30 pm
+Validating Cruise Ship Name: Carnival Sunshine...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Sunshine
+Validating Passenger Outbound Cabin Num: E106...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E106
+Validating Return Date: 04/28/2014...Done!
+[SUCCESS] set Return Date to: 04/28/2014
+Validating Return Time: 9:00 pm...Done!
+[SUCCESS] set Return Time to: 9:00 pm
+Validating Passenger Return Cabin Num: F222...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F222
+Validating Ticket Cost: 560.00...Done!
+[SUCCESS] set Ticket Cost to: 560.00
+Validating Extra Charges: 616.00...Done!
+[SUCCESS] set Extra Charges to: 616.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Balcony...Done!
+[SUCCESS] set Extra Info to: Balcony
+[SUCCESS] set Total Cost to: 1223.04
+...Done Processing Sarah R. Wade's Cruise Ticket
+
+20) Processing Lavonne L. Bible's Cruise Ticket...
+Validating Cruise Line Name: Carnival...Done!
+[SUCCESS] set Cruise Line Name to: Carnival
+Validating Passenger Name: Lavonne L. Bible...Done!
+[SUCCESS] set Passenger Name to: Lavonne L. Bible
+Validating Passenger Contact Info: LavonneLBible@gmail.com...Done!
+[SUCCESS] set Passenger Contact Info to: LavonneLBible@gmail.com
+Validating Departure Date: 05/19/2015...Done!
+[SUCCESS] set Departure Date to: 05/19/2015
+Validating Departure Time: 3:00 pm...Done!
+[SUCCESS] set Departure Time to: 3:00 pm
+Validating Cruise Ship Name: Carnival Triumph...Done!
+[SUCCESS] set Cruise Ship Name to: Carnival Triumph
+Validating Passenger Outbound Cabin Num: E293...Done!
+[SUCCESS] set Passenger Outbound Cabin Num to: E293
+Validating Return Date: 05/28/2014...Done!
+[SUCCESS] set Return Date to: 05/28/2014
+Validating Return Time: 2:00 am...Done!
+[SUCCESS] set Return Time to: 2:00 am
+Validating Passenger Return Cabin Num: F519...Done!
+[SUCCESS] set Passenger Return Cabin Num to: F519
+Validating Ticket Cost: 989.00...Done!
+[SUCCESS] set Ticket Cost to: 989.00
+Validating Extra Charges: 864.00...Done!
+[SUCCESS] set Extra Charges to: 864.00
+Validating Tax: 4%...Done!
+[SUCCESS] set Tax to: 4%
+Validating Extra Info: Suit...Done!
+[SUCCESS] set Extra Info to: Suit
+[SUCCESS] set Total Cost to: 1927.12
+...Done Processing Lavonne L. Bible's Cruise Ticket
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+1) Processing Elliot R. McClanahan's Enrollment...
+Validating School Name: CUNY York...Done!
+[SUCCESS] set School Name to: CUNY York
+Validating School Contact Information: 718-262-2000...Done!
+[SUCCESS] set School Contact Information to: 718-262-2000
+Validating Student Name Description: Elliot R. McClanahan...Done!
+[SUCCESS] set Student Name Description to: Elliot R. McClanahan
+Validating Student Contact Information: ElliotRMcClanahan@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: ElliotRMcClanahan@gmail.com
+Validating Student Status Information: Freshman...Done!
+[SUCCESS] set Student Status Information to: Freshman
+Validating Student Department: Math...Done!
+[SUCCESS] set Student Department to: Math
+Validating Student's Major: Robotics...Done!
+[SUCCESS] set Student's Major to: Robotics
+Validating Years left To graduate: 4...Done!
+[SUCCESS] set Years left To graduate to: 4
+Validating Student's Course Schedule: CS172, CS291...Done!
+[SUCCESS] set Student's Course Schedule to: CS172, CS291
+Validating Course Fees: 800.00...Done!
+[SUCCESS] set Course Fees to: 800.00
+Validating Student's Financial Aid: 200.00...Done!
+[SUCCESS] set Student's Financial Aid to: 200.00
+[SUCCESS] set Student's Outstanding balance to: 600
+...Done Processing Elliot R. McClanahan's Enrollment
+
+2) Processing Kevin J. Merz's Enrollment...
+Validating School Name: CUNY City College...Done!
+[SUCCESS] set School Name to: CUNY City College
+Validating School Contact Information: 212-650-7000...Done!
+[SUCCESS] set School Contact Information to: 212-650-7000
+Validating Student Name Description: Kevin J. Merz...Done!
+[SUCCESS] set Student Name Description to: Kevin J. Merz
+Validating Student Contact Information: KevinJMerz@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: KevinJMerz@gmail.com
+Validating Student Status Information: Sophomore...Done!
+[SUCCESS] set Student Status Information to: Sophomore
+Validating Student Department: Computer Science...Done!
+[SUCCESS] set Student Department to: Computer Science
+Validating Student's Major: Robotics...Done!
+[SUCCESS] set Student's Major to: Robotics
+Validating Years left To graduate: 3...Done!
+[SUCCESS] set Years left To graduate to: 3
+Validating Student's Course Schedule: CS172, CS291, MATH111...Done!
+[SUCCESS] set Student's Course Schedule to: CS172, CS291, MATH111
+Validating Course Fees: 1000.00...Done!
+[SUCCESS] set Course Fees to: 1000.00
+Validating Student's Financial Aid: 400.00...Done!
+[SUCCESS] set Student's Financial Aid to: 400.00
+[SUCCESS] set Student's Outstanding balance to: 600
+...Done Processing Kevin J. Merz's Enrollment
+
+3) Processing Amanda T. Tatum's Enrollment...
+Validating School Name: CUNY Hunter College...Done!
+[SUCCESS] set School Name to: CUNY Hunter College
+Validating School Contact Information: 917-725-1257...Done!
+[SUCCESS] set School Contact Information to: 917-725-1257
+Validating Student Name Description: Amanda T. Tatum...Done!
+[SUCCESS] set Student Name Description to: Amanda T. Tatum
+Validating Student Contact Information: AmandaTTatum@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: AmandaTTatum@gmail.com
+Validating Student Status Information: Freshman...Done!
+[SUCCESS] set Student Status Information to: Freshman
+Validating Student Department: Physics...Done!
+[SUCCESS] set Student Department to: Physics
+Validating Student's Major: Mechanical Engineering...Done!
+[SUCCESS] set Student's Major to: Mechanical Engineering
+Validating Years left To graduate: 4...Done!
+[SUCCESS] set Years left To graduate to: 4
+Validating Student's Course Schedule: MATH225, MATH210...Done!
+[SUCCESS] set Student's Course Schedule to: MATH225, MATH210
+Validating Course Fees: 1000.00...Done!
+[SUCCESS] set Course Fees to: 1000.00
+Validating Student's Financial Aid: 200.00...Done!
+[SUCCESS] set Student's Financial Aid to: 200.00
+[SUCCESS] set Student's Outstanding balance to: 800
+...Done Processing Amanda T. Tatum's Enrollment
+
+4) Processing Ernest N. Perry's Enrollment...
+Validating School Name: CUNY York...Done!
+[SUCCESS] set School Name to: CUNY York
+Validating School Contact Information: 718-262-2000...Done!
+[SUCCESS] set School Contact Information to: 718-262-2000
+Validating Student Name Description: Ernest N. Perry...Done!
+[SUCCESS] set Student Name Description to: Ernest N. Perry
+Validating Student Contact Information: ErnestNPerry@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: ErnestNPerry@gmail.com
+Validating Student Status Information: Sophomore...Done!
+[SUCCESS] set Student Status Information to: Sophomore
+Validating Student Department: Math...Done!
+[SUCCESS] set Student Department to: Math
+Validating Student's Major: Aeronautics...Done!
+[SUCCESS] set Student's Major to: Aeronautics
+Validating Years left To graduate: 3...Done!
+[SUCCESS] set Years left To graduate to: 3
+Validating Student's Course Schedule: MATH210, CS291, CS397...Done!
+[SUCCESS] set Student's Course Schedule to: MATH210, CS291, CS397
+Validating Course Fees: 2000.00...Done!
+[SUCCESS] set Course Fees to: 2000.00
+Validating Student's Financial Aid: 200.00...Done!
+[SUCCESS] set Student's Financial Aid to: 200.00
+[SUCCESS] set Student's Outstanding balance to: 1800
+...Done Processing Ernest N. Perry's Enrollment
+
+5) Processing Beverly T. Reyes's Enrollment...
+Validating School Name: CUNY Hunter College...Done!
+[SUCCESS] set School Name to: CUNY Hunter College
+Validating School Contact Information: 917-725-1257...Done!
+[SUCCESS] set School Contact Information to: 917-725-1257
+Validating Student Name Description: Beverly T. Reyes...Done!
+[SUCCESS] set Student Name Description to: Beverly T. Reyes
+Validating Student Contact Information: BeverlyTReyes@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: BeverlyTReyes@gmail.com
+Validating Student Status Information: Junior...Done!
+[SUCCESS] set Student Status Information to: Junior
+Validating Student Department: Physics...Done!
+[SUCCESS] set Student Department to: Physics
+Validating Student's Major: Mechanical Engineering...Done!
+[SUCCESS] set Student's Major to: Mechanical Engineering
+Validating Years left To graduate: 2...Done!
+[SUCCESS] set Years left To graduate to: 2
+Validating Student's Course Schedule: MATH120, MATH121, PHYS151...Done!
+[SUCCESS] set Student's Course Schedule to: MATH120, MATH121, PHYS151
+Validating Course Fees: 2400.00...Done!
+[SUCCESS] set Course Fees to: 2400.00
+Validating Student's Financial Aid: 400.00...Done!
+[SUCCESS] set Student's Financial Aid to: 400.00
+[SUCCESS] set Student's Outstanding balance to: 2000
+...Done Processing Beverly T. Reyes's Enrollment
+
+6) Processing Jean D. Welsh's Enrollment...
+Validating School Name: CUNY City College...Done!
+[SUCCESS] set School Name to: CUNY City College
+Validating School Contact Information: 212-650-7000...Done!
+[SUCCESS] set School Contact Information to: 212-650-7000
+Validating Student Name Description: Jean D. Welsh...Done!
+[SUCCESS] set Student Name Description to: Jean D. Welsh
+Validating Student Contact Information: JeanDWelsh@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: JeanDWelsh@gmail.com
+Validating Student Status Information: Junior...Done!
+[SUCCESS] set Student Status Information to: Junior
+Validating Student Department: Math...Done!
+[SUCCESS] set Student Department to: Math
+Validating Student's Major: Finance...Done!
+[SUCCESS] set Student's Major to: Finance
+Validating Years left To graduate: 2...Done!
+[SUCCESS] set Years left To graduate to: 2
+Validating Student's Course Schedule: MATH120, MATH121, CS172...Done!
+[SUCCESS] set Student's Course Schedule to: MATH120, MATH121, CS172
+Validating Course Fees: 1500.00...Done!
+[SUCCESS] set Course Fees to: 1500.00
+Validating Student's Financial Aid: 300.00...Done!
+[SUCCESS] set Student's Financial Aid to: 300.00
+[SUCCESS] set Student's Outstanding balance to: 1200
+...Done Processing Jean D. Welsh's Enrollment
+
+7) Processing Mabel R. David's Enrollment...
+Validating School Name: CUNY York...Done!
+[SUCCESS] set School Name to: CUNY York
+Validating School Contact Information: 718-262-2000...Done!
+[SUCCESS] set School Contact Information to: 718-262-2000
+Validating Student Name Description: Mabel R. David...Done!
+[SUCCESS] set Student Name Description to: Mabel R. David
+Validating Student Contact Information: MabelRDavid@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: MabelRDavid@gmail.com
+Validating Student Status Information: Sophomore...Done!
+[SUCCESS] set Student Status Information to: Sophomore
+Validating Student Department: Math...Done!
+[SUCCESS] set Student Department to: Math
+Validating Student's Major: Aeronautics...Done!
+[SUCCESS] set Student's Major to: Aeronautics
+Validating Years left To graduate: 3...Done!
+[SUCCESS] set Years left To graduate to: 3
+Validating Student's Course Schedule: MATH210, MATH225, MATH333...Done!
+[SUCCESS] set Student's Course Schedule to: MATH210, MATH225, MATH333
+Validating Course Fees: 1700.00...Done!
+[SUCCESS] set Course Fees to: 1700.00
+Validating Student's Financial Aid: 200.00...Done!
+[SUCCESS] set Student's Financial Aid to: 200.00
+[SUCCESS] set Student's Outstanding balance to: 1500
+...Done Processing Mabel R. David's Enrollment
+
+8) Processing Helen M. Gregory's Enrollment...
+Validating School Name: CUNY York...Done!
+[SUCCESS] set School Name to: CUNY York
+Validating School Contact Information: 718-262-2000...Done!
+[SUCCESS] set School Contact Information to: 718-262-2000
+Validating Student Name Description: Helen M. Gregory...Done!
+[SUCCESS] set Student Name Description to: Helen M. Gregory
+Validating Student Contact Information: HelenMGregory@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: HelenMGregory@gmail.com
+Validating Student Status Information: Senior...Done!
+[SUCCESS] set Student Status Information to: Senior
+Validating Student Department: Physics...Done!
+[SUCCESS] set Student Department to: Physics
+Validating Student's Major: Mechanical Engineering...Done!
+[SUCCESS] set Student's Major to: Mechanical Engineering
+Validating Years left To graduate: 1...Done!
+[SUCCESS] set Years left To graduate to: 1
+Validating Student's Course Schedule: PHYS151, PHYS200, MATH210, MATH333...Done!
+[SUCCESS] set Student's Course Schedule to: PHYS151, PHYS200, MATH210, MATH333
+Validating Course Fees: 2900.00...Done!
+[SUCCESS] set Course Fees to: 2900.00
+Validating Student's Financial Aid: 200.00...Done!
+[SUCCESS] set Student's Financial Aid to: 200.00
+[SUCCESS] set Student's Outstanding balance to: 2700
+...Done Processing Helen M. Gregory's Enrollment
+
+9) Processing Chad A. Beaudoin's Enrollment...
+Validating School Name: CUNY City College...Done!
+[SUCCESS] set School Name to: CUNY City College
+Validating School Contact Information: 212-650-7000...Done!
+[SUCCESS] set School Contact Information to: 212-650-7000
+Validating Student Name Description: Chad A. Beaudoin...Done!
+[SUCCESS] set Student Name Description to: Chad A. Beaudoin
+Validating Student Contact Information: ChadABeaudoin@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: ChadABeaudoin@gmail.com
+Validating Student Status Information: Junior...Done!
+[SUCCESS] set Student Status Information to: Junior
+Validating Student Department: Computer Science...Done!
+[SUCCESS] set Student Department to: Computer Science
+Validating Student's Major: Computer engineering...Done!
+[SUCCESS] set Student's Major to: Computer engineering
+Validating Years left To graduate: 2...Done!
+[SUCCESS] set Years left To graduate to: 2
+Validating Student's Course Schedule: CS172, CS291, CS397, CS485...Done!
+[SUCCESS] set Student's Course Schedule to: CS172, CS291, CS397, CS485
+Validating Course Fees: 3700.00...Done!
+[SUCCESS] set Course Fees to: 3700.00
+Validating Student's Financial Aid: 600.00...Done!
+[SUCCESS] set Student's Financial Aid to: 600.00
+[SUCCESS] set Student's Outstanding balance to: 3100
+...Done Processing Chad A. Beaudoin's Enrollment
+
+10) Processing Linda J. Hendricks's Enrollment...
+Validating School Name: CUNY Hunter College...Done!
+[SUCCESS] set School Name to: CUNY Hunter College
+Validating School Contact Information: 917-725-1257...Done!
+[SUCCESS] set School Contact Information to: 917-725-1257
+Validating Student Name Description: Linda J. Hendricks...Done!
+[SUCCESS] set Student Name Description to: Linda J. Hendricks
+Validating Student Contact Information: LindaJHendricks@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: LindaJHendricks@gmail.com
+Validating Student Status Information: Senior...Done!
+[SUCCESS] set Student Status Information to: Senior
+Validating Student Department: Physics...Done!
+[SUCCESS] set Student Department to: Physics
+Validating Student's Major: Mechanical Engineering...Done!
+[SUCCESS] set Student's Major to: Mechanical Engineering
+Validating Years left To graduate: 1...Done!
+[SUCCESS] set Years left To graduate to: 1
+Validating Student's Course Schedule: PHYS151, PHYS200, MATH120...Done!
+[SUCCESS] set Student's Course Schedule to: PHYS151, PHYS200, MATH120
+Validating Course Fees: 2650.00...Done!
+[SUCCESS] set Course Fees to: 2650.00
+Validating Student's Financial Aid: 600.00...Done!
+[SUCCESS] set Student's Financial Aid to: 600.00
+[SUCCESS] set Student's Outstanding balance to: 2050
+...Done Processing Linda J. Hendricks's Enrollment
+
+11) Processing Karen G. Frye's Enrollment...
+Validating School Name: CUNY York...Done!
+[SUCCESS] set School Name to: CUNY York
+Validating School Contact Information: 718-262-2000...Done!
+[SUCCESS] set School Contact Information to: 718-262-2000
+Validating Student Name Description: Karen G. Frye...Done!
+[SUCCESS] set Student Name Description to: Karen G. Frye
+Validating Student Contact Information: KarenGFrye@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: KarenGFrye@gmail.com
+Validating Student Status Information: Freshman...Done!
+[SUCCESS] set Student Status Information to: Freshman
+Validating Student Department: Computer Science...Done!
+[SUCCESS] set Student Department to: Computer Science
+Validating Student's Major: Robotics...Done!
+[SUCCESS] set Student's Major to: Robotics
+Validating Years left To graduate: 4...Done!
+[SUCCESS] set Years left To graduate to: 4
+Validating Student's Course Schedule: CS391, CS457...Done!
+[SUCCESS] set Student's Course Schedule to: CS391, CS457
+Validating Course Fees: 850.00...Done!
+[SUCCESS] set Course Fees to: 850.00
+Validating Student's Financial Aid: 0.00...Done!
+[SUCCESS] set Student's Financial Aid to: 0.00
+[SUCCESS] set Student's Outstanding balance to: 850
+...Done Processing Karen G. Frye's Enrollment
+
+12) Processing Kathy A. Coombs's Enrollment...
+Validating School Name: CUNY City College...Done!
+[SUCCESS] set School Name to: CUNY City College
+Validating School Contact Information: 212-650-7000...Done!
+[SUCCESS] set School Contact Information to: 212-650-7000
+Validating Student Name Description: Kathy A. Coombs...Done!
+[SUCCESS] set Student Name Description to: Kathy A. Coombs
+Validating Student Contact Information: KathyACoombs@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: KathyACoombs@gmail.com
+Validating Student Status Information: Senior...Done!
+[SUCCESS] set Student Status Information to: Senior
+Validating Student Department: Computer Science...Done!
+[SUCCESS] set Student Department to: Computer Science
+Validating Student's Major: Aeronautics...Done!
+[SUCCESS] set Student's Major to: Aeronautics
+Validating Years left To graduate: 1...Done!
+[SUCCESS] set Years left To graduate to: 1
+Validating Student's Course Schedule: CS397, CS457, MATH210...Done!
+[SUCCESS] set Student's Course Schedule to: CS397, CS457, MATH210
+Validating Course Fees: 1050.00...Done!
+[SUCCESS] set Course Fees to: 1050.00
+Validating Student's Financial Aid: 0.00...Done!
+[SUCCESS] set Student's Financial Aid to: 0.00
+[SUCCESS] set Student's Outstanding balance to: 1050
+...Done Processing Kathy A. Coombs's Enrollment
+
+13) Processing Hattie J. Schultz's Enrollment...
+Validating School Name: CUNY City College...Done!
+[SUCCESS] set School Name to: CUNY City College
+Validating School Contact Information: 212-650-7000...Done!
+[SUCCESS] set School Contact Information to: 212-650-7000
+Validating Student Name Description: Hattie J. Schultz...Done!
+[SUCCESS] set Student Name Description to: Hattie J. Schultz
+Validating Student Contact Information: HattieJSchultz@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: HattieJSchultz@gmail.com
+Validating Student Status Information: Junior...Done!
+[SUCCESS] set Student Status Information to: Junior
+Validating Student Department: Physics...Done!
+[SUCCESS] set Student Department to: Physics
+Validating Student's Major: Mechanical Engineering...Done!
+[SUCCESS] set Student's Major to: Mechanical Engineering
+Validating Years left To graduate: 2...Done!
+[SUCCESS] set Years left To graduate to: 2
+Validating Student's Course Schedule: MATH221...Done!
+[SUCCESS] set Student's Course Schedule to: MATH221
+Validating Course Fees: 600.00...Done!
+[SUCCESS] set Course Fees to: 600.00
+Validating Student's Financial Aid: 500.00...Done!
+[SUCCESS] set Student's Financial Aid to: 500.00
+[SUCCESS] set Student's Outstanding balance to: 100
+...Done Processing Hattie J. Schultz's Enrollment
+
+14) Processing Margaret M. Gandy's Enrollment...
+Validating School Name: CUNY York...Done!
+[SUCCESS] set School Name to: CUNY York
+Validating School Contact Information: 718-262-2000...Done!
+[SUCCESS] set School Contact Information to: 718-262-2000
+Validating Student Name Description: Margaret M. Gandy...Done!
+[SUCCESS] set Student Name Description to: Margaret M. Gandy
+Validating Student Contact Information: MargaretMGandy@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: MargaretMGandy@gmail.com
+Validating Student Status Information: Senior...Done!
+[SUCCESS] set Student Status Information to: Senior
+Validating Student Department: Computer Science...Done!
+[SUCCESS] set Student Department to: Computer Science
+Validating Student's Major: Computer engineering...Done!
+[SUCCESS] set Student's Major to: Computer engineering
+Validating Years left To graduate: 1...Done!
+[SUCCESS] set Years left To graduate to: 1
+Validating Student's Course Schedule: CS397, CS457, CS485...Done!
+[SUCCESS] set Student's Course Schedule to: CS397, CS457, CS485
+Validating Course Fees: 1600.00...Done!
+[SUCCESS] set Course Fees to: 1600.00
+Validating Student's Financial Aid: 500.00...Done!
+[SUCCESS] set Student's Financial Aid to: 500.00
+[SUCCESS] set Student's Outstanding balance to: 1100
+...Done Processing Margaret M. Gandy's Enrollment
+
+15) Processing Harry D. Schaefer's Enrollment...
+Validating School Name: CUNY York...Done!
+[SUCCESS] set School Name to: CUNY York
+Validating School Contact Information: 718-262-2000...Done!
+[SUCCESS] set School Contact Information to: 718-262-2000
+Validating Student Name Description: Harry D. Schaefer...Done!
+[SUCCESS] set Student Name Description to: Harry D. Schaefer
+Validating Student Contact Information: HarryDSchaefer@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: HarryDSchaefer@gmail.com
+Validating Student Status Information: Sophomore...Done!
+[SUCCESS] set Student Status Information to: Sophomore
+Validating Student Department: Computer Science...Done!
+[SUCCESS] set Student Department to: Computer Science
+Validating Student's Major: Computer engineering...Done!
+[SUCCESS] set Student's Major to: Computer engineering
+Validating Years left To graduate: 3...Done!
+[SUCCESS] set Years left To graduate to: 3
+Validating Student's Course Schedule: CS172, CS291, CS385, CS485, MATH210...Done!
+[SUCCESS] set Student's Course Schedule to: CS172, CS291, CS385, CS485, MATH210
+Validating Course Fees: 2350.00...Done!
+[SUCCESS] set Course Fees to: 2350.00
+Validating Student's Financial Aid: 350.00...Done!
+[SUCCESS] set Student's Financial Aid to: 350.00
+[SUCCESS] set Student's Outstanding balance to: 2000
+...Done Processing Harry D. Schaefer's Enrollment
+
+16) Processing Kristin D. Hicks's Enrollment...
+Validating School Name: CUNY Hunter College...Done!
+[SUCCESS] set School Name to: CUNY Hunter College
+Validating School Contact Information: 917-725-1257...Done!
+[SUCCESS] set School Contact Information to: 917-725-1257
+Validating Student Name Description: Kristin D. Hicks...Done!
+[SUCCESS] set Student Name Description to: Kristin D. Hicks
+Validating Student Contact Information: KristinDHicks@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: KristinDHicks@gmail.com
+Validating Student Status Information: Sophomore...Done!
+[SUCCESS] set Student Status Information to: Sophomore
+Validating Student Department: Math...Done!
+[SUCCESS] set Student Department to: Math
+Validating Student's Major: Finance...Done!
+[SUCCESS] set Student's Major to: Finance
+Validating Years left To graduate: 3...Done!
+[SUCCESS] set Years left To graduate to: 3
+Validating Student's Course Schedule: MATH210, MATH333...Done!
+[SUCCESS] set Student's Course Schedule to: MATH210, MATH333
+Validating Course Fees: 1500.00...Done!
+[SUCCESS] set Course Fees to: 1500.00
+Validating Student's Financial Aid: 500.00...Done!
+[SUCCESS] set Student's Financial Aid to: 500.00
+[SUCCESS] set Student's Outstanding balance to: 1000
+...Done Processing Kristin D. Hicks's Enrollment
+
+17) Processing Florence J. Ford's Enrollment...
+Validating School Name: CUNY York...Done!
+[SUCCESS] set School Name to: CUNY York
+Validating School Contact Information: 718-262-2000...Done!
+[SUCCESS] set School Contact Information to: 718-262-2000
+Validating Student Name Description: Florence J. Ford...Done!
+[SUCCESS] set Student Name Description to: Florence J. Ford
+Validating Student Contact Information: FlorenceJFord@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: FlorenceJFord@gmail.com
+Validating Student Status Information: Freshman...Done!
+[SUCCESS] set Student Status Information to: Freshman
+Validating Student Department: Physics...Done!
+[SUCCESS] set Student Department to: Physics
+Validating Student's Major: Mechanical Engineering...Done!
+[SUCCESS] set Student's Major to: Mechanical Engineering
+Validating Years left To graduate: 4...Done!
+[SUCCESS] set Years left To graduate to: 4
+Validating Student's Course Schedule: PHYS121, MATH120, MATH121...Done!
+[SUCCESS] set Student's Course Schedule to: PHYS121, MATH120, MATH121
+Validating Course Fees: 1750.00...Done!
+[SUCCESS] set Course Fees to: 1750.00
+Validating Student's Financial Aid: 600.00...Done!
+[SUCCESS] set Student's Financial Aid to: 600.00
+[SUCCESS] set Student's Outstanding balance to: 1150
+...Done Processing Florence J. Ford's Enrollment
+
+18) Processing Mary W. Mathews's Enrollment...
+Validating School Name: CUNY City College...Done!
+[SUCCESS] set School Name to: CUNY City College
+Validating School Contact Information: 212-650-7000...Done!
+[SUCCESS] set School Contact Information to: 212-650-7000
+Validating Student Name Description: Mary W. Mathews...Done!
+[SUCCESS] set Student Name Description to: Mary W. Mathews
+Validating Student Contact Information: MaryWMathews@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: MaryWMathews@gmail.com
+Validating Student Status Information: Senior...Done!
+[SUCCESS] set Student Status Information to: Senior
+Validating Student Department: Math...Done!
+[SUCCESS] set Student Department to: Math
+Validating Student's Major: Aeronautics...Done!
+[SUCCESS] set Student's Major to: Aeronautics
+Validating Years left To graduate: 1...Done!
+[SUCCESS] set Years left To graduate to: 1
+Validating Student's Course Schedule: MATH221, CS172...Done!
+[SUCCESS] set Student's Course Schedule to: MATH221, CS172
+Validating Course Fees: 850.00...Done!
+[SUCCESS] set Course Fees to: 850.00
+Validating Student's Financial Aid: 100.00...Done!
+[SUCCESS] set Student's Financial Aid to: 100.00
+[SUCCESS] set Student's Outstanding balance to: 750
+...Done Processing Mary W. Mathews's Enrollment
+
+19) Processing Sarah R. Wade's Enrollment...
+Validating School Name: CUNY City College...Done!
+[SUCCESS] set School Name to: CUNY City College
+Validating School Contact Information: 212-650-7000...Done!
+[SUCCESS] set School Contact Information to: 212-650-7000
+Validating Student Name Description: Sarah R. Wade...Done!
+[SUCCESS] set Student Name Description to: Sarah R. Wade
+Validating Student Contact Information: SarahRWade@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: SarahRWade@gmail.com
+Validating Student Status Information: Freshman...Done!
+[SUCCESS] set Student Status Information to: Freshman
+Validating Student Department: Physics...Done!
+[SUCCESS] set Student Department to: Physics
+Validating Student's Major: Mechanical Engineering...Done!
+[SUCCESS] set Student's Major to: Mechanical Engineering
+Validating Years left To graduate: 4...Done!
+[SUCCESS] set Years left To graduate to: 4
+Validating Student's Course Schedule: PHYS120, PHYS121, PHYS200, PHYS350...Done!
+[SUCCESS] set Student's Course Schedule to: PHYS120, PHYS121, PHYS200, PHYS350
+Validating Course Fees: 2950.00...Done!
+[SUCCESS] set Course Fees to: 2950.00
+Validating Student's Financial Aid: 1200.00...Done!
+[SUCCESS] set Student's Financial Aid to: 1200.00
+[SUCCESS] set Student's Outstanding balance to: 1750
+...Done Processing Sarah R. Wade's Enrollment
+
+20) Processing Lavonne L. Bible's Enrollment...
+Validating School Name: CUNY York...Done!
+[SUCCESS] set School Name to: CUNY York
+Validating School Contact Information: 718-262-2000...Done!
+[SUCCESS] set School Contact Information to: 718-262-2000
+Validating Student Name Description: Lavonne L. Bible...Done!
+[SUCCESS] set Student Name Description to: Lavonne L. Bible
+Validating Student Contact Information: LavonneLBible@gmail.com...Done!
+[SUCCESS] set Student Contact Information to: LavonneLBible@gmail.com
+Validating Student Status Information: Senior...Done!
+[SUCCESS] set Student Status Information to: Senior
+Validating Student Department: Computer Science...Done!
+[SUCCESS] set Student Department to: Computer Science
+Validating Student's Major: Robotics...Done!
+[SUCCESS] set Student's Major to: Robotics
+Validating Years left To graduate: 1...Done!
+[SUCCESS] set Years left To graduate to: 1
+Validating Student's Course Schedule: CS172, CS291, CS385, CS457, CS485, MATH210, MATH225...Done!
+[SUCCESS] set Student's Course Schedule to: CS172, CS291, CS385, CS457, CS485, MATH210, MATH225
+Validating Course Fees: 2900.00...Done!
+[SUCCESS] set Course Fees to: 2900.00
+Validating Student's Financial Aid: 200.00...Done!
+[SUCCESS] set Student's Financial Aid to: 200.00
+[SUCCESS] set Student's Outstanding balance to: 2700
+...Done Processing Lavonne L. Bible's Enrollment
+

@@ -1,0 +1,20 @@
+Carnival | Elliot R. McClanahan | ElliotRMcClanahan@gmail.com | 10/11/2014 | 9:00 am  | Carnival Breeze   	 | E176 | 10/14/2014 | 2:00 pm  | F120 | 430.00 | 125.00 | 4% | Ocean View
+Carnival | Kevin J. Merz        | KevinJMerz@gmail.com 		  | 10/21/2014 | 9:00 am  | Carnival Conquest 	 | E180 | 10/25/2014 | 12:00 pm | F132 | 512.00 | 112.00 | 4% | Interior
+Carnival | Amanda T. Tatum      | AmandaTTatum@gmail.com 	  | 10/28/2014 | 9:00 am  | Carnival Dream    	 | E186 | 10/30/2014 | 2:00 pm  | F144 | 526.00 | 100.00 | 4% | Balcony
+Carnival | Ernest N. Perry      | ErnestNPerry@gmail.com 	  | 11/8/2014  | 10:00 am | Carnival Ectasy   	 | E189 | 11/12/2014 | 12:30 pm | F162 | 608.00 | 220.00 | 4% | Balcony
+Carnival | Beverly T. Reyes     | BeverlyTReyes@gmail.com 	  | 11/16/2014 | 12:00 am | Carnival Elation  	 | E192 | 11/21/2014 | 4:30 pm  | F194 | 612.00 | 340.00 | 4% | Interior
+Carnival | Jean D. Welsh        | JeanDWelsh@gmail.com 		  | 11/25/2014 | 11:00 am | Carnival Fantasy  	 | E198 | 11/28/2014 | 2:30 pm  | F216 | 324.00 | 408.00 | 4% | Interior
+Carnival | Mabel R. David       | MabelRDavid@gmail.com 	  | 11/30/2014 | 8:00 am  | Carnival Fascination | E216 | 12/4/2014  | 3:00 pm  | F320 | 680.00 | 126.00 | 4% | Suite
+Carnival | Helen M. Gregory     | HelenMGregory@gmail.com 	  | 12/6/2014  | 1:00 pm  | Carnival Freedom     | E245 | 12/10/2014 | 6:00 pm  | F411 | 412.00 | 192.00 | 4% | Ocean View
+Carnival | Chad A. Beaudoin     | ChadABeaudoin@gmail.com 	  | 12/18/2014 | 8:00 pm  | Carnival Glory       | E287 | 12/23/2014 | 6:00 am  | F324 | 542.00 | 88.00  | 4% | Ocean View
+Carnival | Linda J. Hendricks   | LindaJHendricks@gmail.com   | 12/28/2014 | 12:00 pm | Carnival Imagination | E310 | 01/2/2014  | 4:30 am  | F249 | 460.00 | 324.00 | 4% | Interior
+Carnival | Karen G. Frye        | KarenGFrye@gmail.com 		  | 01/4/2015  | 7:30 am  | Carnival Inspiration | E460 | 01/9/2014  | 12:45 pm | F112 | 495.00 | 356.00 | 4% | Interior
+Carnival | Kathy A. Coombs      | KathyACoombs@gmail.com 	  | 01/13/2015 | 6:40 am  | Carnival Legend      | E512 | 01/26/2014 | 2:50 pm  | F89  | 666.00 | 197.00 | 4% | Interior
+Carnival | Hattie J. Schultz    | HattieJSchultz@gmail.com 	  | 01/24/2015 | 8:45 am  | Carnival Liberty     | E526 | 01/29/2014 | 10:45 am | F92  | 468.00 | 273.00 | 4% | Balcony
+Carnival | Margaret M. Gandy    | MargaretMGandy@gmail.com    | 01/30/2015 | 9:45 am  | Carnival Magic       | E311 | 02/16/2014 | 2:45 pm  | F188 | 840.00 | 96.00  | 4% | Suite
+Carnival | Harry D. Schaefer    | HarryDSchaefer@gmail.com    | 02/8/2015  | 10:30 am | Carnival Miracle     | E277 | 02/12/2014 | 2:00 pm  | F299 | 711.00 | 136.00 | 4% | Suite
+Carnival | Kristin D. Hicks     | KristinDHicks@gmail.com     | 02/16/2015 | 10:00 am | Carnival Paradise    | E110 | 02/21/2014 | 4:45 pm  | F306 | 523.00 | 264.00 | 4% | Balcony
+Carnival | Florence J. Ford     | FlorenceJFord@gmail.com     | 02/21/2015 | 12:25 am | Carnival Pride       | E646 | 02/27/2014 | 6:50 am  | F402 | 640.00 | 344.00 | 4% | Suite
+Carnival | Mary W. Mathews      | MaryWMathews@gmail.com      | 03/11/2015 | 1:45 pm  | Carnival Sensation   | E88  | 03/20/2014 | 7:00 pm  | F611 | 560.00 | 418.00 | 4% | Ocean View
+Carnival | Sarah R. Wade        | SarahRWade@gmail.com        | 04/21/2015 | 2:30 pm  | Carnival Sunshine    | E106 | 04/28/2014 | 9:00 pm  | F222 | 560.00 | 616.00 | 4% | Balcony
+Carnival | Lavonne L. Bible     | LavonneLBible@gmail.com     | 05/19/2015 | 3:00 pm  | Carnival Triumph     | E293 | 05/28/2014 | 2:00 am  | F519 | 989.00 | 864.00 | 4% | Suit

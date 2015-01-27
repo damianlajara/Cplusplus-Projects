@@ -1,0 +1,1240 @@
+
+~~~~~~~~ Elliot R. McClanahan's Invoice (Hotel Receipt #1) ~~~~~~~~
+Hotel Name: Grand Hyatt
+Hotel Address: 109 E 42nd St, New York
+Hotel Contact Info: 212-883-1234
+Guest Name: Elliot R. McClanahan
+Guest Contact Info: ElliotRMcClanahan@gmail.com
+Room Number: 118
+Room Rate: 192.00
+Length Of Stay: 5
+Extra Expenses: 500.00
+Tax: 8.47%
+Deposit: 0
+Balance: 1460
+Total: 1583.66
+
+~~~~~~~~ Kevin J. Merz's Invoice (Hotel Receipt #2) ~~~~~~~~
+Hotel Name: Four Points
+Hotel Address: 326 W 40th St, New York
+Hotel Contact Info: 212-967-8585
+Guest Name: Kevin J. Merz
+Guest Contact Info: KevinJMerz@gmail.com
+Room Number: 506
+Room Rate: 198.00
+Length Of Stay: 4
+Extra Expenses: 350.00
+Tax: 8.47%
+Deposit: 10
+Balance: 1132
+Total: 1227.88
+
+~~~~~~~~ Amanda T. Tatum's Invoice (Hotel Receipt #3) ~~~~~~~~
+Hotel Name: Hilton
+Hotel Address: 152 W 26th St, New York
+Hotel Contact Info: 212-858-5888
+Guest Name: Amanda T. Tatum
+Guest Contact Info: AmandaTTatum@gmail.com
+Room Number: 265
+Room Rate: 165.00
+Length Of Stay: 7
+Extra Expenses: 600.00
+Tax: 8.47%
+Deposit: 100
+Balance: 1655
+Total: 1795.18
+
+~~~~~~~~ Ernest N. Perry's Invoice (Hotel Receipt #4) ~~~~~~~~
+Hotel Name: Holiday Inn
+Hotel Address: 440 W 57th St, New York
+Hotel Contact Info: 212-581-8100
+Guest Name: Ernest N. Perry
+Guest Contact Info: ErnestNPerry@gmail.com
+Room Number: 406
+Room Rate: 220.00
+Length Of Stay: 9
+Extra Expenses: 800.00
+Tax: 8.47%
+Deposit: 1000
+Balance: 1780
+Total: 1930.77
+
+~~~~~~~~ Beverly T. Reyes's Invoice (Hotel Receipt #5) ~~~~~~~~
+Hotel Name: Deauville
+Hotel Address: 103 E 29th St, New York
+Hotel Contact Info: 212-683-0990
+Guest Name: Beverly T. Reyes
+Guest Contact Info: BeverlyTReyes@gmail.com
+Room Number: 512
+Room Rate: 85.00
+Length Of Stay: 2
+Extra Expenses: 250.00
+Tax: 8.47%
+Deposit: 200
+Balance: 220
+Total: 238.634
+
+~~~~~~~~ Jean D. Welsh's Invoice (Hotel Receipt #6) ~~~~~~~~
+Hotel Name: La Quinta
+Hotel Address: 17 W 32nd St, New York
+Hotel Contact Info: 212-736-1600
+Guest Name: Jean D. Welsh
+Guest Contact Info: JeanDWelsh@gmail.com
+Room Number: 768
+Room Rate: 96.00
+Length Of Stay: 4
+Extra Expenses: 242.00
+Tax: 8.47%
+Deposit: 370
+Balance: 256
+Total: 277.683
+
+~~~~~~~~ Mabel R. David's Invoice (Hotel Receipt #7) ~~~~~~~~
+Hotel Name: Kimberly
+Hotel Address: 145 E 50th St, New York
+Hotel Contact Info: 212-755-0400
+Guest Name: Mabel R. David
+Guest Contact Info: MabelRDavid@gmail.com
+Room Number: 657
+Room Rate: 103.00
+Length Of Stay: 6
+Extra Expenses: 312.00
+Tax: 8.47%
+Deposit: 600
+Balance: 330
+Total: 357.951
+
+~~~~~~~~ Helen M. Gregory's Invoice (Hotel Receipt #8) ~~~~~~~~
+Hotel Name: Marriott
+Hotel Address: 525 Lexington Ave, New York
+Hotel Contact Info: 212-755-4000
+Guest Name: Helen M. Gregory
+Guest Contact Info: HelenMGregory@gmail.com
+Room Number: 456
+Room Rate: 112.00
+Length Of Stay: 12
+Extra Expenses: 448.00
+Tax: 8.47%
+Deposit: 942
+Balance: 850
+Total: 921.995
+
+~~~~~~~~ Chad A. Beaudoin's Invoice (Hotel Receipt #9) ~~~~~~~~
+Hotel Name: Intercontinental
+Hotel Address: 300 W 44th St, New York
+Hotel Contact Info: 212-803-4500
+Guest Name: Chad A. Beaudoin
+Guest Contact Info: ChadABeaudoin@gmail.com
+Room Number: 844
+Room Rate: 96.00
+Length Of Stay: 8
+Extra Expenses: 224.00
+Tax: 8.47%
+Deposit: 476
+Balance: 516
+Total: 559.705
+
+~~~~~~~~ Linda J. Hendricks's Invoice (Hotel Receipt #10) ~~~~~~~~
+Hotel Name: Moderne
+Hotel Address: 243 W 55th St, New York
+Hotel Contact Info: 212-397-6767
+Guest Name: Linda J. Hendricks
+Guest Contact Info: LindaJHendricks@gmail.com
+Room Number: 345
+Room Rate: 98.00
+Length Of Stay: 4
+Extra Expenses: 112.00
+Tax: 8.47%
+Deposit: 36
+Balance: 468
+Total: 507.64
+
+~~~~~~~~ Karen G. Frye's Invoice (Hotel Receipt #11) ~~~~~~~~
+Hotel Name: Morgans
+Hotel Address: 237 Madison Ave, New York
+Hotel Contact Info: 212-686-0300
+Guest Name: Karen G. Frye
+Guest Contact Info: KarenGFrye@gmail.com
+Room Number: 653
+Room Rate: 123.00
+Length Of Stay: 6
+Extra Expenses: 268.00
+Tax: 8.47%
+Deposit: 1000
+Balance: 6
+Total: 6.5082
+
+~~~~~~~~ Kathy A. Coombs's Invoice (Hotel Receipt #12) ~~~~~~~~
+Hotel Name: New York Inn
+Hotel Address: 765 8th Avenue, New York
+Hotel Contact Info: 212-247-5400
+Guest Name: Kathy A. Coombs
+Guest Contact Info: KathyACoombs@gmail.com
+Room Number: 233
+Room Rate: 146.00
+Length Of Stay: 3
+Extra Expenses: 296.00
+Tax: 8.47%
+Deposit: 0
+Balance: 734
+Total: 796.17
+
+~~~~~~~~ Hattie J. Schultz's Invoice (Hotel Receipt #13) ~~~~~~~~
+Hotel Name: Milennium
+Hotel Address: 145 W 44th St, New York
+Hotel Contact Info: 212-768-4400
+Guest Name: Hattie J. Schultz
+Guest Contact Info: HattieJSchultz@gmail.com
+Room Number: 752
+Room Rate: 165.00
+Length Of Stay: 2
+Extra Expenses: 330.00
+Tax: 8.47%
+Deposit: 15
+Balance: 645
+Total: 699.631
+
+~~~~~~~~ Margaret M. Gandy's Invoice (Hotel Receipt #14) ~~~~~~~~
+Hotel Name: Night
+Hotel Address: 132 W 45th St, New York
+Hotel Contact Info: 212-835-9600
+Guest Name: Margaret M. Gandy
+Guest Contact Info: MargaretMGandy@gmail.com
+Room Number: 876
+Room Rate: 188.00
+Length Of Stay: 5
+Extra Expenses: 433.00
+Tax: 8.47%
+Deposit: 389
+Balance: 984
+Total: 1067.34
+
+~~~~~~~~ Harry D. Schaefer's Invoice (Hotel Receipt #15) ~~~~~~~~
+Hotel Name: Sheraton
+Hotel Address: 790 7th Avenue, New York
+Hotel Contact Info: 212-581-3300
+Guest Name: Harry D. Schaefer
+Guest Contact Info: HarryDSchaefer@gmail.com
+Room Number: 987
+Room Rate: 143.00
+Length Of Stay: 8
+Extra Expenses: 661.00
+Tax: 8.47%
+Deposit: 1600
+Balance: 205
+Total: 222.363
+
+~~~~~~~~ Kristin D. Hicks's Invoice (Hotel Receipt #16) ~~~~~~~~
+Hotel Name: Renaissance
+Hotel Address: 130 E 57th St, New York
+Hotel Contact Info: 212-753-8841
+Guest Name: Kristin D. Hicks
+Guest Contact Info: KristinDHicks@gmail.com
+Room Number: 766
+Room Rate: 159.00
+Length Of Stay: 11
+Extra Expenses: 98.00
+Tax: 8.47%
+Deposit: 1003
+Balance: 844
+Total: 915.487
+
+~~~~~~~~ Florence J. Ford's Invoice (Hotel Receipt #17) ~~~~~~~~
+Hotel Name: Red Roof
+Hotel Address: 6 W 32nd St, New York
+Hotel Contact Info: 212-643-7100
+Guest Name: Florence J. Ford
+Guest Contact Info: FlorenceJFord@gmail.com
+Room Number: 564
+Room Rate: 177.00
+Length Of Stay: 10
+Extra Expenses: 764.00
+Tax: 8.47%
+Deposit: 1348
+Balance: 1186
+Total: 1286.45
+
+~~~~~~~~ Mary W. Mathews's Invoice (Hotel Receipt #18) ~~~~~~~~
+Hotel Name: The Carlton
+Hotel Address: 88 Madison Avenue, New York
+Hotel Contact Info: 212-532-4100
+Guest Name: Mary W. Mathews
+Guest Contact Info: MaryWMathews@gmail.com
+Room Number: 223
+Room Rate: 231.00
+Length Of Stay: 13
+Extra Expenses: 558.00
+Tax: 8.47%
+Deposit: 1262
+Balance: 2299
+Total: 2493.73
+
+~~~~~~~~ Sarah R. Wade's Invoice (Hotel Receipt #19) ~~~~~~~~
+Hotel Name: The Muse
+Hotel Address: 130 W 46th St, New York
+Hotel Contact Info: 212-485-2400
+Guest Name: Sarah R. Wade
+Guest Contact Info: SarahRWade@gmail.com
+Room Number: 442
+Room Rate: 99.00
+Length Of Stay: 9
+Extra Expenses: 299.00
+Tax: 8.47%
+Deposit: 0
+Balance: 1190
+Total: 1290.79
+
+~~~~~~~~ Lavonne L. Bible's Invoice (Hotel Receipt #20) ~~~~~~~~
+Hotel Name: Four Seasons
+Hotel Address: 57 E 57th St, New York
+Hotel Contact Info: 212-758-5700
+Guest Name: Lavonne L. Bible
+Guest Contact Info: LavonneLBible@gmail.com
+Room Number: 632
+Room Rate: 245.00
+Length Of Stay: 7
+Extra Expenses: 479.00
+Tax: 8.47%
+Deposit: 300
+Balance: 1894
+Total: 2054.42
+
+~~~~~~~~ Kevin J. Merz's Invoice (Concert Ticket #1) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: The book of mormon
+Show Venue: Eugene O'Neill Theatre
+Show Date: 10/4/2014
+Start Time: 8:00PM
+Ending Time: 9:40PM
+Guest Name: Kevin J. Merz
+Guest Contact Info: KevinJMerz@gmail.com
+Seat Number: 15
+Ticket Price: 169.00
+Tax: 6%
+Extra Info: A new Broadway musical from the creators of South Park and Avenue Q
+Total Cost: 179.14
+
+~~~~~~~~ Amanda T. Tatum's Invoice (Concert Ticket #2) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: The lion king
+Show Venue: Broadway
+Show Date: 10/4/2014
+Start Time: 10:00PM
+Ending Time: 11:20PM
+Guest Name: Amanda T. Tatum
+Guest Contact Info: AmandaTTatum@gmail.com
+Seat Number: 36
+Ticket Price: 92.00
+Tax: 6%
+Extra Info: Experience the circle of life as Disneys beloved film comes to eye-popping life onstage
+Total Cost: 97.52
+
+~~~~~~~~ Ernest N. Perry's Invoice (Concert Ticket #3) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Wicked
+Show Venue: Broadway
+Show Date: 9/28/2014
+Start Time: 5:00PM
+Ending Time: 6:00PM
+Guest Name: Ernest N. Perry
+Guest Contact Info: ErnestNPerry@gmail.com
+Seat Number: 40
+Ticket Price: 76.25
+Tax: 6%
+Extra Info: The best musical of the decade
+Total Cost: 80.825
+
+~~~~~~~~ Beverly T. Reyes's Invoice (Concert Ticket #4) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Aladdin
+Show Venue: Minskoff Theatre
+Show Date: 10/8/2014
+Start Time: 4:00PM
+Ending Time: 5:30PM
+Guest Name: Beverly T. Reyes
+Guest Contact Info: BeverlyTReyes@gmail.com
+Seat Number: 69
+Ticket Price: 49.50
+Tax: 6%
+Extra Info: Make way for Disney's new musical comedy!
+Total Cost: 52.47
+
+~~~~~~~~ Jean D. Welsh's Invoice (Concert Ticket #5) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: The phantom of the opera
+Show Venue: Majestic Theatre
+Show Date: 10/7/2014
+Start Time: 7:00PM
+Ending Time: 9:30PM
+Guest Name: Jean D. Welsh
+Guest Contact Info: JeanDWelsh@gmail.com
+Seat Number: 9
+Ticket Price: 39.00
+Tax: 6%
+Extra Info: This haunting love story is Broadway's longest-running show!
+Total Cost: 41.34
+
+~~~~~~~~ Mabel R. David's Invoice (Concert Ticket #6) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Kinky boots
+Show Venue: Al Hirschfeld Theatre
+Show Date: 10/2/2014
+Start Time: 9:00PM
+Ending Time: 9:30PM
+Guest Name: Mabel R. David
+Guest Contact Info: MabelRDavid@gmail.com
+Seat Number: 27
+Ticket Price: 57.00
+Tax: 6%
+Extra Info: Broadway's new high-heeled hit is the winner of six Tony Awards including Best Musical!
+Total Cost: 60.42
+
+~~~~~~~~ Helen M. Gregory's Invoice (Concert Ticket #7) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Jersey Boys
+Show Venue: August Wilson Theatre
+Show Date: 10/3/2014
+Start Time: 9:00PM
+Ending Time: 9:50PM
+Guest Name: Helen M. Gregory
+Guest Contact Info: HelenMGregory@gmail.com
+Seat Number: 7
+Ticket Price: 97.00
+Tax: 6%
+Extra Info: This Tony-winning rags-to-riches story is just too good to be true!
+Total Cost: 102.82
+
+~~~~~~~~ Chad A. Beaudoin's Invoice (Concert Ticket #8) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Motown the musical
+Show Venue: Lunt-Fontaine Theatre
+Show Date: 10/17/2014
+Start Time: 9:00PM
+Ending Time: 10:50PM
+Guest Name: Chad A. Beaudoin
+Guest Contact Info: ChadABeaudoin@gmail.com
+Seat Number: 77
+Ticket Price: 67.00
+Tax: 6%
+Extra Info: A new musical based on the life on Motown founder Berry Gordy
+Total Cost: 71.02
+
+~~~~~~~~ Linda J. Hendricks's Invoice (Concert Ticket #9) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Les miserables
+Show Venue: Imperial Theatre
+Show Date: 10/19/2014
+Start Time: 6:00PM
+Ending Time: 8:50PM
+Guest Name: Linda J. Hendricks
+Guest Contact Info: LindaJHendricks@gmail.com
+Seat Number: 70
+Ticket Price: 57.00
+Tax: 6%
+Extra Info: The classic mega-musical returns to Broadway in a brand new production
+Total Cost: 60.42
+
+~~~~~~~~ Karen G. Frye's Invoice (Concert Ticket #10) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: If/Then
+Show Venue: Richard Rodgers Theatre
+Show Date: 10/20/2014
+Start Time: 7:00PM
+Ending Time: 8:50PM
+Guest Name: Karen G. Frye
+Guest Contact Info: KarenGFrye@gmail.com
+Seat Number: 20
+Ticket Price: 67.00
+Tax: 6%
+Extra Info: A romantic, original musical by Pulitzer Prize-winning composing team of Tom Kitt and Brian Yorkey
+Total Cost: 71.02
+
+~~~~~~~~ Kathy A. Coombs's Invoice (Concert Ticket #11) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Beautiful
+Show Venue: Stephen Sondheim Theatre
+Show Date: 10/21/2014
+Start Time: 5:00PM
+Ending Time: 7:20PM
+Guest Name: Kathy A. Coombs
+Guest Contact Info: KathyACoombs@gmail.com
+Seat Number: 30
+Ticket Price: 75.00
+Tax: 6%
+Extra Info: A new musical telling the story of Carole King's life through her music
+Total Cost: 79.5
+
+~~~~~~~~ Hattie J. Schultzs's Invoice (Concert Ticket #12) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Mamma mia!
+Show Venue: Broadhurst Theatre
+Show Date: 10/22/2014
+Start Time: 5:00PM
+Ending Time: 7:20PM
+Guest Name: Hattie J. Schultzs
+Guest Contact Info: HattieJSchultz@gmail.com
+Seat Number: 78
+Ticket Price: 70.00
+Tax: 6%
+Extra Info: A mother. A daughter. Three possible dads. And a trip down the aisle you'll never forget!
+Total Cost: 74.2
+
+~~~~~~~~ Margaret M. Gandy's Invoice (Concert Ticket #13) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Matilda
+Show Venue: Shubert Theatre
+Show Date: 10/11/2014
+Start Time: 7:00PM
+Ending Time: 8:30PM
+Guest Name: Margaret M. Gandy
+Guest Contact Info: MargaretMGandy@gmail.com
+Seat Number: 706
+Ticket Price: 37.00
+Tax: 6%
+Extra Info: Roald Dahl's classic children's story arrives on Broadway
+Total Cost: 39.22
+
+~~~~~~~~ Harry D. Schaefer's Invoice (Concert Ticket #14) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Cinderella
+Show Venue: Broadway Theatre
+Show Date: 10/1/2014
+Start Time: 9:00PM
+Ending Time: 10:30PM
+Guest Name: Harry D. Schaefer
+Guest Contact Info: HarryDSchaefer@gmail.com
+Seat Number: 200
+Ticket Price: 45.00
+Tax: 6%
+Extra Info: Rodgers and Hammerstein's take on the classic tale
+Total Cost: 47.7
+
+~~~~~~~~ Kristin D. Hicks's Invoice (Concert Ticket #15) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Chicago
+Show Venue: Ambassador Theatre
+Show Date: 10/12/2014
+Start Time: 10:00PM
+Ending Time: 10:30PM
+Guest Name: Kristin D. Hicks
+Guest Contact Info: KristinDHicks@gmail.com
+Seat Number: 590
+Ticket Price: 49.50
+Tax: 6%
+Extra Info: This Tony-winning revival of Kander and Ebb's musical will razzle-dazzle you
+Total Cost: 52.47
+
+~~~~~~~~ Florence J. Ford's Invoice (Concert Ticket #16) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Rock of ages
+Show Venue: Helen Hayes Theatre
+Show Date: 10/12/2014
+Start Time: 4:00PM
+Ending Time: 7:30PM
+Guest Name: Florence J. Ford
+Guest Contact Info: FlorenceJFord@gmail.com
+Seat Number: 590
+Ticket Price: 70.00
+Tax: 6%
+Extra Info: A rock musical with the greatest hits of the eightys
+Total Cost: 74.2
+
+~~~~~~~~ Mary W. Mathews's Invoice (Concert Ticket #17) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Hedwig and the angry inch
+Show Venue: Belasco Theatre
+Show Date: 10/28/2014
+Start Time: 6:00PM
+Ending Time: 7:30PM
+Guest Name: Mary W. Mathews
+Guest Contact Info: MaryWMathews@gmail.com
+Seat Number: 70
+Ticket Price: 47.00
+Tax: 6%
+Extra Info: Andrew Rannells stars in John Cameron Mitchell and Stephen Trask's rock musical
+Total Cost: 49.82
+
+~~~~~~~~ Mary W. Mathews's Invoice (Concert Ticket #18) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: Once
+Show Venue: Benard B. Jacobs Theatre
+Show Date: 11/5/2014
+Start Time: 7:00PM
+Ending Time: 9:00PM
+Guest Name: Mary W. Mathews
+Guest Contact Info: MaryWMathews@gmail.com
+Seat Number: 128
+Ticket Price: 59.50
+Tax: 6%
+Extra Info: The stage adaptation of the Oscar-winning film comes to Broadway
+Total Cost: 63.07
+
+~~~~~~~~ Sarah R. Wade's Invoice (Concert Ticket #19) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: The last ship
+Show Venue: Neil Simon Theatre
+Show Date: 11/28/2014
+Start Time: 9:00PM
+Ending Time: 4:00PM
+Guest Name: Sarah R. Wade
+Guest Contact Info: SarahRWade@gmail.com
+Seat Number: 247
+Ticket Price: 55.00
+Tax: 6%
+Extra Info: A new musical featuring an original score by Sting
+Total Cost: 58.3
+
+~~~~~~~~ Lavonne L. Bible's Invoice (Concert Ticket #20) ~~~~~~~~
+Service Provider Name: Broadway
+Service Provider Contact Info: 800-276-2392
+Show Name: On the town
+Show Venue: Lyric Theatre
+Show Date: 11/26/2014
+Start Time: 10:00PM
+Ending Time: 12:00AM
+Guest Name: Lavonne L. Bible
+Guest Contact Info: LavonneLBible@gmail.com
+Seat Number: 132
+Ticket Price: 37.50
+Tax: 6%
+Extra Info: Leonard Bernstein, Betty Comden and Adolph Green's musical returns to New York
+Total Cost: 39.75
+
+~~~~~~~~ Elliot R. McClanahan's Invoice (Cruise Ticket #1) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Elliot R. McClanahan
+Passenger Contact Info: ElliotRMcClanahan@gmail.com
+Departure Date: 10/11/2014
+Departure Time: 9:00 am
+Cruise Ship Name: Carnival Breeze
+Passenger Outbound Cabin Num: E176
+Return Date: 10/14/2014
+Return Time: 2:00 pm
+Passenger Return Cabin Num: F120
+Ticket Cost: 430.00
+Extra Charges: 125.00
+Tax: 4%
+Extra Info: Ocean View
+Total Cost: 577.2
+
+~~~~~~~~ Kevin J. Merz's Invoice (Cruise Ticket #2) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Kevin J. Merz
+Passenger Contact Info: KevinJMerz@gmail.com
+Departure Date: 10/21/2014
+Departure Time: 9:00 am
+Cruise Ship Name: Carnival Conquest
+Passenger Outbound Cabin Num: E180
+Return Date: 10/25/2014
+Return Time: 12:00 pm
+Passenger Return Cabin Num: F132
+Ticket Cost: 512.00
+Extra Charges: 112.00
+Tax: 4%
+Extra Info: Interior
+Total Cost: 648.96
+
+~~~~~~~~ Amanda T. Tatum's Invoice (Cruise Ticket #3) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Amanda T. Tatum
+Passenger Contact Info: AmandaTTatum@gmail.com
+Departure Date: 10/28/2014
+Departure Time: 9:00 am
+Cruise Ship Name: Carnival Dream
+Passenger Outbound Cabin Num: E186
+Return Date: 10/30/2014
+Return Time: 2:00 pm
+Passenger Return Cabin Num: F144
+Ticket Cost: 526.00
+Extra Charges: 100.00
+Tax: 4%
+Extra Info: Balcony
+Total Cost: 651.04
+
+~~~~~~~~ Ernest N. Perry's Invoice (Cruise Ticket #4) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Ernest N. Perry
+Passenger Contact Info: ErnestNPerry@gmail.com
+Departure Date: 11/8/2014
+Departure Time: 10:00 am
+Cruise Ship Name: Carnival Ectasy
+Passenger Outbound Cabin Num: E189
+Return Date: 11/12/2014
+Return Time: 12:30 pm
+Passenger Return Cabin Num: F162
+Ticket Cost: 608.00
+Extra Charges: 220.00
+Tax: 4%
+Extra Info: Balcony
+Total Cost: 861.12
+
+~~~~~~~~ Beverly T. Reyes's Invoice (Cruise Ticket #5) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Beverly T. Reyes
+Passenger Contact Info: BeverlyTReyes@gmail.com
+Departure Date: 11/16/2014
+Departure Time: 12:00 am
+Cruise Ship Name: Carnival Elation
+Passenger Outbound Cabin Num: E192
+Return Date: 11/21/2014
+Return Time: 4:30 pm
+Passenger Return Cabin Num: F194
+Ticket Cost: 612.00
+Extra Charges: 340.00
+Tax: 4%
+Extra Info: Interior
+Total Cost: 990.08
+
+~~~~~~~~ Jean D. Welsh's Invoice (Cruise Ticket #6) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Jean D. Welsh
+Passenger Contact Info: JeanDWelsh@gmail.com
+Departure Date: 11/25/2014
+Departure Time: 11:00 am
+Cruise Ship Name: Carnival Fantasy
+Passenger Outbound Cabin Num: E198
+Return Date: 11/28/2014
+Return Time: 2:30 pm
+Passenger Return Cabin Num: F216
+Ticket Cost: 324.00
+Extra Charges: 408.00
+Tax: 4%
+Extra Info: Interior
+Total Cost: 761.28
+
+~~~~~~~~ Mabel R. David's Invoice (Cruise Ticket #7) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Mabel R. David
+Passenger Contact Info: MabelRDavid@gmail.com
+Departure Date: 11/30/2014
+Departure Time: 8:00 am
+Cruise Ship Name: Carnival Fascination
+Passenger Outbound Cabin Num: E216
+Return Date: 12/4/2014
+Return Time: 3:00 pm
+Passenger Return Cabin Num: F320
+Ticket Cost: 680.00
+Extra Charges: 126.00
+Tax: 4%
+Extra Info: Suite
+Total Cost: 838.24
+
+~~~~~~~~ Helen M. Gregory's Invoice (Cruise Ticket #8) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Helen M. Gregory
+Passenger Contact Info: HelenMGregory@gmail.com
+Departure Date: 12/6/2014
+Departure Time: 1:00 pm
+Cruise Ship Name: Carnival Freedom
+Passenger Outbound Cabin Num: E245
+Return Date: 12/10/2014
+Return Time: 6:00 pm
+Passenger Return Cabin Num: F411
+Ticket Cost: 412.00
+Extra Charges: 192.00
+Tax: 4%
+Extra Info: Ocean View
+Total Cost: 628.16
+
+~~~~~~~~ Chad A. Beaudoin's Invoice (Cruise Ticket #9) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Chad A. Beaudoin
+Passenger Contact Info: ChadABeaudoin@gmail.com
+Departure Date: 12/18/2014
+Departure Time: 8:00 pm
+Cruise Ship Name: Carnival Glory
+Passenger Outbound Cabin Num: E287
+Return Date: 12/23/2014
+Return Time: 6:00 am
+Passenger Return Cabin Num: F324
+Ticket Cost: 542.00
+Extra Charges: 88.00
+Tax: 4%
+Extra Info: Ocean View
+Total Cost: 655.2
+
+~~~~~~~~ Linda J. Hendricks's Invoice (Cruise Ticket #10) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Linda J. Hendricks
+Passenger Contact Info: LindaJHendricks@gmail.com
+Departure Date: 12/28/2014
+Departure Time: 12:00 pm
+Cruise Ship Name: Carnival Imagination
+Passenger Outbound Cabin Num: E310
+Return Date: 01/2/2014
+Return Time: 4:30 am
+Passenger Return Cabin Num: F249
+Ticket Cost: 460.00
+Extra Charges: 324.00
+Tax: 4%
+Extra Info: Interior
+Total Cost: 815.36
+
+~~~~~~~~ Karen G. Frye's Invoice (Cruise Ticket #11) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Karen G. Frye
+Passenger Contact Info: KarenGFrye@gmail.com
+Departure Date: 01/4/2015
+Departure Time: 7:30 am
+Cruise Ship Name: Carnival Inspiration
+Passenger Outbound Cabin Num: E460
+Return Date: 01/9/2014
+Return Time: 12:45 pm
+Passenger Return Cabin Num: F112
+Ticket Cost: 495.00
+Extra Charges: 356.00
+Tax: 4%
+Extra Info: Interior
+Total Cost: 885.04
+
+~~~~~~~~ Kathy A. Coombs's Invoice (Cruise Ticket #12) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Kathy A. Coombs
+Passenger Contact Info: KathyACoombs@gmail.com
+Departure Date: 01/13/2015
+Departure Time: 6:40 am
+Cruise Ship Name: Carnival Legend
+Passenger Outbound Cabin Num: E512
+Return Date: 01/26/2014
+Return Time: 2:50 pm
+Passenger Return Cabin Num: F89
+Ticket Cost: 666.00
+Extra Charges: 197.00
+Tax: 4%
+Extra Info: Interior
+Total Cost: 897.52
+
+~~~~~~~~ Hattie J. Schultz's Invoice (Cruise Ticket #13) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Hattie J. Schultz
+Passenger Contact Info: HattieJSchultz@gmail.com
+Departure Date: 01/24/2015
+Departure Time: 8:45 am
+Cruise Ship Name: Carnival Liberty
+Passenger Outbound Cabin Num: E526
+Return Date: 01/29/2014
+Return Time: 10:45 am
+Passenger Return Cabin Num: F92
+Ticket Cost: 468.00
+Extra Charges: 273.00
+Tax: 4%
+Extra Info: Balcony
+Total Cost: 770.64
+
+~~~~~~~~ Margaret M. Gandy's Invoice (Cruise Ticket #14) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Margaret M. Gandy
+Passenger Contact Info: MargaretMGandy@gmail.com
+Departure Date: 01/30/2015
+Departure Time: 9:45 am
+Cruise Ship Name: Carnival Magic
+Passenger Outbound Cabin Num: E311
+Return Date: 02/16/2014
+Return Time: 2:45 pm
+Passenger Return Cabin Num: F188
+Ticket Cost: 840.00
+Extra Charges: 96.00
+Tax: 4%
+Extra Info: Suite
+Total Cost: 973.44
+
+~~~~~~~~ Harry D. Schaefer's Invoice (Cruise Ticket #15) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Harry D. Schaefer
+Passenger Contact Info: HarryDSchaefer@gmail.com
+Departure Date: 02/8/2015
+Departure Time: 10:30 am
+Cruise Ship Name: Carnival Miracle
+Passenger Outbound Cabin Num: E277
+Return Date: 02/12/2014
+Return Time: 2:00 pm
+Passenger Return Cabin Num: F299
+Ticket Cost: 711.00
+Extra Charges: 136.00
+Tax: 4%
+Extra Info: Suite
+Total Cost: 880.88
+
+~~~~~~~~ Kristin D. Hicks's Invoice (Cruise Ticket #16) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Kristin D. Hicks
+Passenger Contact Info: KristinDHicks@gmail.com
+Departure Date: 02/16/2015
+Departure Time: 10:00 am
+Cruise Ship Name: Carnival Paradise
+Passenger Outbound Cabin Num: E110
+Return Date: 02/21/2014
+Return Time: 4:45 pm
+Passenger Return Cabin Num: F306
+Ticket Cost: 523.00
+Extra Charges: 264.00
+Tax: 4%
+Extra Info: Balcony
+Total Cost: 818.48
+
+~~~~~~~~ Florence J. Ford's Invoice (Cruise Ticket #17) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Florence J. Ford
+Passenger Contact Info: FlorenceJFord@gmail.com
+Departure Date: 02/21/2015
+Departure Time: 12:25 am
+Cruise Ship Name: Carnival Pride
+Passenger Outbound Cabin Num: E646
+Return Date: 02/27/2014
+Return Time: 6:50 am
+Passenger Return Cabin Num: F402
+Ticket Cost: 640.00
+Extra Charges: 344.00
+Tax: 4%
+Extra Info: Suite
+Total Cost: 1023.36
+
+~~~~~~~~ Mary W. Mathews's Invoice (Cruise Ticket #18) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Mary W. Mathews
+Passenger Contact Info: MaryWMathews@gmail.com
+Departure Date: 03/11/2015
+Departure Time: 1:45 pm
+Cruise Ship Name: Carnival Sensation
+Passenger Outbound Cabin Num: E88
+Return Date: 03/20/2014
+Return Time: 7:00 pm
+Passenger Return Cabin Num: F611
+Ticket Cost: 560.00
+Extra Charges: 418.00
+Tax: 4%
+Extra Info: Ocean View
+Total Cost: 1017.12
+
+~~~~~~~~ Sarah R. Wade's Invoice (Cruise Ticket #19) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Sarah R. Wade
+Passenger Contact Info: SarahRWade@gmail.com
+Departure Date: 04/21/2015
+Departure Time: 2:30 pm
+Cruise Ship Name: Carnival Sunshine
+Passenger Outbound Cabin Num: E106
+Return Date: 04/28/2014
+Return Time: 9:00 pm
+Passenger Return Cabin Num: F222
+Ticket Cost: 560.00
+Extra Charges: 616.00
+Tax: 4%
+Extra Info: Balcony
+Total Cost: 1223.04
+
+~~~~~~~~ Lavonne L. Bible's Invoice (Cruise Ticket #20) ~~~~~~~~
+Cruise Line Name: Carnival
+Passenger Name: Lavonne L. Bible
+Passenger Contact Info: LavonneLBible@gmail.com
+Departure Date: 05/19/2015
+Departure Time: 3:00 pm
+Cruise Ship Name: Carnival Triumph
+Passenger Outbound Cabin Num: E293
+Return Date: 05/28/2014
+Return Time: 2:00 am
+Passenger Return Cabin Num: F519
+Ticket Cost: 989.00
+Extra Charges: 864.00
+Tax: 4%
+Extra Info: Suit
+Total Cost: 1927.12
+
+~~~~~~~~ Elliot R. McClanahan's Enrollment Record (Student Enrollment #1) ~~~~~~~~
+School Name: CUNY York
+School Contact Information: 718-262-2000
+Student Name Description: Elliot R. McClanahan
+Student Contact Information: ElliotRMcClanahan@gmail.com
+Student Status Information: Freshman
+Student Department: Math
+Student's Major: Robotics
+Years left To graduate: 4
+Student's Course Schedule: CS172, CS291
+Course Fees: 800.00
+Student's Financial Aid: 200.00
+Student's Outstanding balance: 600
+
+~~~~~~~~ Kevin J. Merz's Enrollment Record (Student Enrollment #2) ~~~~~~~~
+School Name: CUNY City College
+School Contact Information: 212-650-7000
+Student Name Description: Kevin J. Merz
+Student Contact Information: KevinJMerz@gmail.com
+Student Status Information: Sophomore
+Student Department: Computer Science
+Student's Major: Robotics
+Years left To graduate: 3
+Student's Course Schedule: CS172, CS291, MATH111
+Course Fees: 1000.00
+Student's Financial Aid: 400.00
+Student's Outstanding balance: 600
+
+~~~~~~~~ Amanda T. Tatum's Enrollment Record (Student Enrollment #3) ~~~~~~~~
+School Name: CUNY Hunter College
+School Contact Information: 917-725-1257
+Student Name Description: Amanda T. Tatum
+Student Contact Information: AmandaTTatum@gmail.com
+Student Status Information: Freshman
+Student Department: Physics
+Student's Major: Mechanical Engineering
+Years left To graduate: 4
+Student's Course Schedule: MATH225, MATH210
+Course Fees: 1000.00
+Student's Financial Aid: 200.00
+Student's Outstanding balance: 800
+
+~~~~~~~~ Ernest N. Perry's Enrollment Record (Student Enrollment #4) ~~~~~~~~
+School Name: CUNY York
+School Contact Information: 718-262-2000
+Student Name Description: Ernest N. Perry
+Student Contact Information: ErnestNPerry@gmail.com
+Student Status Information: Sophomore
+Student Department: Math
+Student's Major: Aeronautics
+Years left To graduate: 3
+Student's Course Schedule: MATH210, CS291, CS397
+Course Fees: 2000.00
+Student's Financial Aid: 200.00
+Student's Outstanding balance: 1800
+
+~~~~~~~~ Beverly T. Reyes's Enrollment Record (Student Enrollment #5) ~~~~~~~~
+School Name: CUNY Hunter College
+School Contact Information: 917-725-1257
+Student Name Description: Beverly T. Reyes
+Student Contact Information: BeverlyTReyes@gmail.com
+Student Status Information: Junior
+Student Department: Physics
+Student's Major: Mechanical Engineering
+Years left To graduate: 2
+Student's Course Schedule: MATH120, MATH121, PHYS151
+Course Fees: 2400.00
+Student's Financial Aid: 400.00
+Student's Outstanding balance: 2000
+
+~~~~~~~~ Jean D. Welsh's Enrollment Record (Student Enrollment #6) ~~~~~~~~
+School Name: CUNY City College
+School Contact Information: 212-650-7000
+Student Name Description: Jean D. Welsh
+Student Contact Information: JeanDWelsh@gmail.com
+Student Status Information: Junior
+Student Department: Math
+Student's Major: Finance
+Years left To graduate: 2
+Student's Course Schedule: MATH120, MATH121, CS172
+Course Fees: 1500.00
+Student's Financial Aid: 300.00
+Student's Outstanding balance: 1200
+
+~~~~~~~~ Mabel R. David's Enrollment Record (Student Enrollment #7) ~~~~~~~~
+School Name: CUNY York
+School Contact Information: 718-262-2000
+Student Name Description: Mabel R. David
+Student Contact Information: MabelRDavid@gmail.com
+Student Status Information: Sophomore
+Student Department: Math
+Student's Major: Aeronautics
+Years left To graduate: 3
+Student's Course Schedule: MATH210, MATH225, MATH333
+Course Fees: 1700.00
+Student's Financial Aid: 200.00
+Student's Outstanding balance: 1500
+
+~~~~~~~~ Helen M. Gregory's Enrollment Record (Student Enrollment #8) ~~~~~~~~
+School Name: CUNY York
+School Contact Information: 718-262-2000
+Student Name Description: Helen M. Gregory
+Student Contact Information: HelenMGregory@gmail.com
+Student Status Information: Senior
+Student Department: Physics
+Student's Major: Mechanical Engineering
+Years left To graduate: 1
+Student's Course Schedule: PHYS151, PHYS200, MATH210, MATH333
+Course Fees: 2900.00
+Student's Financial Aid: 200.00
+Student's Outstanding balance: 2700
+
+~~~~~~~~ Chad A. Beaudoin's Enrollment Record (Student Enrollment #9) ~~~~~~~~
+School Name: CUNY City College
+School Contact Information: 212-650-7000
+Student Name Description: Chad A. Beaudoin
+Student Contact Information: ChadABeaudoin@gmail.com
+Student Status Information: Junior
+Student Department: Computer Science
+Student's Major: Computer engineering
+Years left To graduate: 2
+Student's Course Schedule: CS172, CS291, CS397, CS485
+Course Fees: 3700.00
+Student's Financial Aid: 600.00
+Student's Outstanding balance: 3100
+
+~~~~~~~~ Linda J. Hendricks's Enrollment Record (Student Enrollment #10) ~~~~~~~~
+School Name: CUNY Hunter College
+School Contact Information: 917-725-1257
+Student Name Description: Linda J. Hendricks
+Student Contact Information: LindaJHendricks@gmail.com
+Student Status Information: Senior
+Student Department: Physics
+Student's Major: Mechanical Engineering
+Years left To graduate: 1
+Student's Course Schedule: PHYS151, PHYS200, MATH120
+Course Fees: 2650.00
+Student's Financial Aid: 600.00
+Student's Outstanding balance: 2050
+
+~~~~~~~~ Karen G. Frye's Enrollment Record (Student Enrollment #11) ~~~~~~~~
+School Name: CUNY York
+School Contact Information: 718-262-2000
+Student Name Description: Karen G. Frye
+Student Contact Information: KarenGFrye@gmail.com
+Student Status Information: Freshman
+Student Department: Computer Science
+Student's Major: Robotics
+Years left To graduate: 4
+Student's Course Schedule: CS391, CS457
+Course Fees: 850.00
+Student's Financial Aid: 0.00
+Student's Outstanding balance: 850
+
+~~~~~~~~ Kathy A. Coombs's Enrollment Record (Student Enrollment #12) ~~~~~~~~
+School Name: CUNY City College
+School Contact Information: 212-650-7000
+Student Name Description: Kathy A. Coombs
+Student Contact Information: KathyACoombs@gmail.com
+Student Status Information: Senior
+Student Department: Computer Science
+Student's Major: Aeronautics
+Years left To graduate: 1
+Student's Course Schedule: CS397, CS457, MATH210
+Course Fees: 1050.00
+Student's Financial Aid: 0.00
+Student's Outstanding balance: 1050
+
+~~~~~~~~ Hattie J. Schultz's Enrollment Record (Student Enrollment #13) ~~~~~~~~
+School Name: CUNY City College
+School Contact Information: 212-650-7000
+Student Name Description: Hattie J. Schultz
+Student Contact Information: HattieJSchultz@gmail.com
+Student Status Information: Junior
+Student Department: Physics
+Student's Major: Mechanical Engineering
+Years left To graduate: 2
+Student's Course Schedule: MATH221
+Course Fees: 600.00
+Student's Financial Aid: 500.00
+Student's Outstanding balance: 100
+
+~~~~~~~~ Margaret M. Gandy's Enrollment Record (Student Enrollment #14) ~~~~~~~~
+School Name: CUNY York
+School Contact Information: 718-262-2000
+Student Name Description: Margaret M. Gandy
+Student Contact Information: MargaretMGandy@gmail.com
+Student Status Information: Senior
+Student Department: Computer Science
+Student's Major: Computer engineering
+Years left To graduate: 1
+Student's Course Schedule: CS397, CS457, CS485
+Course Fees: 1600.00
+Student's Financial Aid: 500.00
+Student's Outstanding balance: 1100
+
+~~~~~~~~ Harry D. Schaefer's Enrollment Record (Student Enrollment #15) ~~~~~~~~
+School Name: CUNY York
+School Contact Information: 718-262-2000
+Student Name Description: Harry D. Schaefer
+Student Contact Information: HarryDSchaefer@gmail.com
+Student Status Information: Sophomore
+Student Department: Computer Science
+Student's Major: Computer engineering
+Years left To graduate: 3
+Student's Course Schedule: CS172, CS291, CS385, CS485, MATH210
+Course Fees: 2350.00
+Student's Financial Aid: 350.00
+Student's Outstanding balance: 2000
+
+~~~~~~~~ Kristin D. Hicks's Enrollment Record (Student Enrollment #16) ~~~~~~~~
+School Name: CUNY Hunter College
+School Contact Information: 917-725-1257
+Student Name Description: Kristin D. Hicks
+Student Contact Information: KristinDHicks@gmail.com
+Student Status Information: Sophomore
+Student Department: Math
+Student's Major: Finance
+Years left To graduate: 3
+Student's Course Schedule: MATH210, MATH333
+Course Fees: 1500.00
+Student's Financial Aid: 500.00
+Student's Outstanding balance: 1000
+
+~~~~~~~~ Florence J. Ford's Enrollment Record (Student Enrollment #17) ~~~~~~~~
+School Name: CUNY York
+School Contact Information: 718-262-2000
+Student Name Description: Florence J. Ford
+Student Contact Information: FlorenceJFord@gmail.com
+Student Status Information: Freshman
+Student Department: Physics
+Student's Major: Mechanical Engineering
+Years left To graduate: 4
+Student's Course Schedule: PHYS121, MATH120, MATH121
+Course Fees: 1750.00
+Student's Financial Aid: 600.00
+Student's Outstanding balance: 1150
+
+~~~~~~~~ Mary W. Mathews's Enrollment Record (Student Enrollment #18) ~~~~~~~~
+School Name: CUNY City College
+School Contact Information: 212-650-7000
+Student Name Description: Mary W. Mathews
+Student Contact Information: MaryWMathews@gmail.com
+Student Status Information: Senior
+Student Department: Math
+Student's Major: Aeronautics
+Years left To graduate: 1
+Student's Course Schedule: MATH221, CS172
+Course Fees: 850.00
+Student's Financial Aid: 100.00
+Student's Outstanding balance: 750
+
+~~~~~~~~ Sarah R. Wade's Enrollment Record (Student Enrollment #19) ~~~~~~~~
+School Name: CUNY City College
+School Contact Information: 212-650-7000
+Student Name Description: Sarah R. Wade
+Student Contact Information: SarahRWade@gmail.com
+Student Status Information: Freshman
+Student Department: Physics
+Student's Major: Mechanical Engineering
+Years left To graduate: 4
+Student's Course Schedule: PHYS120, PHYS121, PHYS200, PHYS350
+Course Fees: 2950.00
+Student's Financial Aid: 1200.00
+Student's Outstanding balance: 1750
+
+~~~~~~~~ Lavonne L. Bible's Enrollment Record (Student Enrollment #20) ~~~~~~~~
+School Name: CUNY York
+School Contact Information: 718-262-2000
+Student Name Description: Lavonne L. Bible
+Student Contact Information: LavonneLBible@gmail.com
+Student Status Information: Senior
+Student Department: Computer Science
+Student's Major: Robotics
+Years left To graduate: 1
+Student's Course Schedule: CS172, CS291, CS385, CS457, CS485, MATH210, MATH225
+Course Fees: 2900.00
+Student's Financial Aid: 200.00
+Student's Outstanding balance: 2700
